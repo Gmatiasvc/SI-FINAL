@@ -1,0 +1,44 @@
+# Entornos virtuales y compilados de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Variables de entorno y secretos locales
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Datasets crudos pesados (mantener fuera del repositorio Git)
+datasets/
+
+# Logs diarios y cachés/corridas temporales de ejecución
+logs/*.log
+artifacts/cache/
+artifacts/yolo_runs/
+runs/
+
+# Archivos auxiliares de compilación LaTeX (se conservan .tex, .pdf y figures/)
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.lof
+report/*.lot
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+
+# Archivos del sistema operativo y enlaces locales del entorno
+.DS_Store
+Thumbs.db
+desktop.ini
+.agents/

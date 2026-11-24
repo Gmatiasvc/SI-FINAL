@@ -1,0 +1,175 @@
+{
+  "best_model_selected_by_val_rmse": "GradientBoostingRegressor",
+  "split_summary": {
+    "source_files": [
+      "Plant_1_Generation_Data.csv",
+      "Plant_1_Weather_Sensor_Data.csv"
+    ],
+    "total_merged_rows": 17300,
+    "total_consecutive_days": 34,
+    "n_inverters": 22,
+    "default_capacity_kwh": 1191.0707,
+    "splits": {
+      "train": {
+        "days": "1-24",
+        "rows": 12020,
+        "start": "2020-05-15 00:00:00",
+        "end": "2020-06-07 23:00:00"
+      },
+      "val": {
+        "days": "25-29",
+        "rows": 2640,
+        "start": "2020-06-08 00:00:00",
+        "end": "2020-06-12 23:00:00"
+      },
+      "test": {
+        "days": "30-34",
+        "rows": 2640,
+        "start": "2020-06-13 00:00:00",
+        "end": "2020-06-17 23:00:00"
+      }
+    },
+    "features": [
+      "IRRADIATION",
+      "AMBIENT_TEMPERATURE",
+      "MODULE_TEMPERATURE",
+      "hora",
+      "dia_anio",
+      "capacidad_instalada"
+    ],
+    "target": "energia_kwh_hora"
+  },
+  "models": {
+    "LinearRegression_Baseline": {
+      "features": [
+        "IRRADIATION",
+        "capacidad_instalada"
+      ],
+      "best_params": {},
+      "train": {
+        "mae_kwh": 19.792,
+        "rmse_kwh": 42.691,
+        "nmae_pct": 1.667,
+        "nrmse_pct": 3.597
+      },
+      "val": {
+        "mae_kwh": 21.299,
+        "rmse_kwh": 31.685,
+        "nmae_pct": 1.794,
+        "nrmse_pct": 2.669
+      },
+      "test": {
+        "mae_kwh": 23.266,
+        "rmse_kwh": 51.073,
+        "nmae_pct": 1.96,
+        "nrmse_pct": 4.302
+      }
+    },
+    "RandomForestRegressor": {
+      "features": [
+        "IRRADIATION",
+        "AMBIENT_TEMPERATURE",
+        "MODULE_TEMPERATURE",
+        "hora",
+        "dia_anio",
+        "capacidad_instalada"
+      ],
+      "best_params": {
+        "regressor__max_depth": 12,
+        "regressor__min_samples_leaf": 6,
+        "regressor__n_estimators": 80
+      },
+      "cv_best_rmse": 43.031,
+      "train": {
+        "mae_kwh": 8.562,
+        "rmse_kwh": 28.947,
+        "nmae_pct": 0.721,
+        "nrmse_pct": 2.439
+      },
+      "val": {
+        "mae_kwh": 16.403,
+        "rmse_kwh": 35.6,
+        "nmae_pct": 1.382,
+        "nrmse_pct": 2.999
+      },
+      "test": {
+        "mae_kwh": 18.996,
+        "rmse_kwh": 52.12,
+        "nmae_pct": 1.6,
+        "nrmse_pct": 4.391
+      }
+    },
+    "GradientBoostingRegressor": {
+      "features": [
+        "IRRADIATION",
+        "AMBIENT_TEMPERATURE",
+        "MODULE_TEMPERATURE",
+        "hora",
+        "dia_anio",
+        "capacidad_instalada"
+      ],
+      "best_params": {
+        "regressor__learning_rate": 0.05,
+        "regressor__max_depth": 3,
+        "regressor__n_estimators": 200
+      },
+      "cv_best_rmse": 40.366,
+      "train": {
+        "mae_kwh": 10.928,
+        "rmse_kwh": 30.831,
+        "nmae_pct": 0.921,
+        "nrmse_pct": 2.597
+      },
+      "val": {
+        "mae_kwh": 15.68,
+        "rmse_kwh": 30.603,
+        "nmae_pct": 1.321,
+        "nrmse_pct": 2.578
+      },
+      "test": {
+        "mae_kwh": 16.867,
+        "rmse_kwh": 46.001,
+        "nmae_pct": 1.421,
+        "nrmse_pct": 3.875
+      }
+    }
+  },
+  "test_subgroups": {
+    "franja_diurna_06_18": {
+      "mae_kwh": 30.448,
+      "rmse_kwh": 62.497,
+      "nmae_pct": 2.565,
+      "nrmse_pct": 5.265,
+      "n_samples": 1430
+    },
+    "franja_nocturna": {
+      "mae_kwh": 0.817,
+      "rmse_kwh": 0.915,
+      "nmae_pct": 0.069,
+      "nrmse_pct": 0.077,
+      "n_samples": 1210
+    },
+    "irradiancia_baja_lt_0.2": {
+      "mae_kwh": 2.318,
+      "rmse_kwh": 4.917,
+      "nmae_pct": 0.195,
+      "nrmse_pct": 0.414,
+      "n_samples": 1650
+    },
+    "irradiancia_media_0.2_0.6": {
+      "mae_kwh": 28.489,
+      "rmse_kwh": 59.43,
+      "nmae_pct": 2.4,
+      "nrmse_pct": 5.006,
+      "n_samples": 616
+    },
+    "irradiancia_alta_ge_0.6": {
+      "mae_kwh": 61.914,
+      "rmse_kwh": 94.936,
+      "nmae_pct": 5.216,
+      "nrmse_pct": 7.997,
+      "n_samples": 374
+    }
+  },
+  "model_artifact": "/home/gerardo/dev/python/SI-FINAL/artifacts/models/tabular_best_model.joblib"
+}

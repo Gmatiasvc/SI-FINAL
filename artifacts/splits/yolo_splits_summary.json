@@ -1,0 +1,11 @@
+{
+  "yaml_path": "/home/gerardo/dev/python/SI-FINAL/configs/yolo_data.yaml",
+  "train_count": 1094,
+  "val_count": 193,
+  "test_count": 228,
+  "classes": [
+    "double_panel",
+    "dummy",
+    "single_panel"
+  ]
+}

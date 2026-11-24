@@ -1,0 +1,36 @@
+{
+  "total_images": 818,
+  "real_images": 782,
+  "synthetic_non_evaluable": 36,
+  "unique_clusters": 638,
+  "excluded_folders": {
+    "Electrical-damage": 103
+  },
+  "corrupted_files": [],
+  "class_distribution_by_split": {
+    "test": {
+      "suciedad visible": 62,
+      "panel limpio": 30,
+      "vista no evaluable": 23,
+      "grieta visible": 15
+    },
+    "train": {
+      "suciedad visible": 269,
+      "panel limpio": 135,
+      "vista no evaluable": 111,
+      "grieta visible": 46
+    },
+    "val": {
+      "suciedad visible": 66,
+      "panel limpio": 28,
+      "vista no evaluable": 25,
+      "grieta visible": 8
+    }
+  },
+  "canonical_classes": [
+    "panel limpio",
+    "suciedad visible",
+    "grieta visible",
+    "vista no evaluable"
+  ]
+}

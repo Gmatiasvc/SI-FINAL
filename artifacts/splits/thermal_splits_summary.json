@@ -1,0 +1,25 @@
+{
+  "total_sampled": 2000,
+  "splits": {
+    "test": {
+      "Normal térmico": 100,
+      "Hotspot / Celda crítica": 100,
+      "Fallo de diodo / Bypass": 100
+    },
+    "train": {
+      "Hotspot / Celda crítica": 467,
+      "Normal térmico": 467,
+      "Fallo de diodo / Bypass": 466
+    },
+    "val": {
+      "Normal térmico": 100,
+      "Fallo de diodo / Bypass": 100,
+      "Hotspot / Celda crítica": 100
+    }
+  },
+  "canonical_classes": [
+    "Normal térmico",
+    "Hotspot / Celda crítica",
+    "Fallo de diodo / Bypass"
+  ]
+}

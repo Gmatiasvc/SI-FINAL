@@ -1,0 +1,221 @@
+{
+  "winner_model": "MobileNetV3_Small_FineTuned",
+  "split_counts": {
+    "train": 561,
+    "val": 127,
+    "test": 130
+  },
+  "baseline_frozen": {
+    "val_macro_f1": 0.7143,
+    "test_macro_f1": 0.7046,
+    "test_accuracy": 0.7308,
+    "per_class": {
+      "panel limpio": {
+        "precision": 0.5686274509803921,
+        "recall": 0.9666666666666667,
+        "f1-score": 0.7160493827160493,
+        "support": 30.0
+      },
+      "suciedad visible": {
+        "precision": 0.8627450980392157,
+        "recall": 0.7096774193548387,
+        "f1-score": 0.7787610619469026,
+        "support": 62.0
+      },
+      "grieta visible": {
+        "precision": 0.6428571428571429,
+        "recall": 0.6,
+        "f1-score": 0.6206896551724138,
+        "support": 15.0
+      },
+      "vista no evaluable": {
+        "precision": 0.9285714285714286,
+        "recall": 0.5652173913043478,
+        "f1-score": 0.7027027027027027,
+        "support": 23.0
+      },
+      "accuracy": 0.7307692307692307,
+      "macro avg": {
+        "precision": 0.7507002801120448,
+        "recall": 0.7103903693314633,
+        "f1-score": 0.7045507006345171,
+        "support": 130.0
+      },
+      "weighted avg": {
+        "precision": 0.7811463046757164,
+        "recall": 0.7307692307692307,
+        "f1-score": 0.7325936485533677,
+        "support": 130.0
+      }
+    }
+  },
+  "finetuned": {
+    "val_macro_f1": 0.8908,
+    "test_macro_f1": 0.8276,
+    "test_accuracy": 0.8231,
+    "per_class": {
+      "panel limpio": {
+        "precision": 0.675,
+        "recall": 0.9,
+        "f1-score": 0.7714285714285715,
+        "support": 30.0
+      },
+      "suciedad visible": {
+        "precision": 0.9215686274509803,
+        "recall": 0.7580645161290323,
+        "f1-score": 0.831858407079646,
+        "support": 62.0
+      },
+      "grieta visible": {
+        "precision": 0.7368421052631579,
+        "recall": 0.9333333333333333,
+        "f1-score": 0.8235294117647058,
+        "support": 15.0
+      },
+      "vista no evaluable": {
+        "precision": 0.95,
+        "recall": 0.8260869565217391,
+        "f1-score": 0.8837209302325582,
+        "support": 23.0
+      },
+      "accuracy": 0.823076923076923,
+      "macro avg": {
+        "precision": 0.8208526831785345,
+        "recall": 0.8543712014960263,
+        "f1-score": 0.8276343301263702,
+        "support": 130.0
+      },
+      "weighted avg": {
+        "precision": 0.8483837421608318,
+        "recall": 0.823076923076923,
+        "f1-score": 0.8261276996431894,
+        "support": 130.0
+      }
+    },
+    "history": {
+      "train_loss": [
+        0.9106,
+        0.4781,
+        0.3202,
+        0.2403,
+        0.2015,
+        0.1477,
+        0.1357,
+        0.1008,
+        0.0877,
+        0.0635,
+        0.0804,
+        0.0812
+      ],
+      "val_macro_f1": [
+        0.3905,
+        0.6978,
+        0.7223,
+        0.8718,
+        0.8326,
+        0.8697,
+        0.8438,
+        0.8886,
+        0.8908,
+        0.8843,
+        0.8854,
+        0.8854
+      ]
+    }
+  },
+  "damage_recall_summary": {
+    "suciedad_visible_recall": 0.7581,
+    "grieta_visible_recall": 0.9333,
+    "panel_limpio_recall": 0.9,
+    "vista_no_evaluable_recall": 0.8261
+  },
+  "confusion_matrix": [
+    [
+      27,
+      3,
+      0,
+      0
+    ],
+    [
+      9,
+      47,
+      5,
+      1
+    ],
+    [
+      0,
+      1,
+      14,
+      0
+    ],
+    [
+      4,
+      0,
+      0,
+      19
+    ]
+  ],
+  "misclassified_examples": [
+    {
+      "image": "Bird (124).jpg",
+      "true_label": "suciedad visible",
+      "pred_label": "panel limpio",
+      "confidence": 0.4054
+    },
+    {
+      "image": "Bird (141).jpg",
+      "true_label": "suciedad visible",
+      "pred_label": "grieta visible",
+      "confidence": 0.8305
+    },
+    {
+      "image": "Bird (142).jpg",
+      "true_label": "suciedad visible",
+      "pred_label": "grieta visible",
+      "confidence": 0.8305
+    },
+    {
+      "image": "Bird (163).jpg",
+      "true_label": "suciedad visible",
+      "pred_label": "panel limpio",
+      "confidence": 0.4054
+    },
+    {
+      "image": "Bird (61).jpg",
+      "true_label": "suciedad visible",
+      "pred_label": "grieta visible",
+      "confidence": 0.6624
+    },
+    {
+      "image": "Bird (62).jpg",
+      "true_label": "suciedad visible",
+      "pred_label": "grieta visible",
+      "confidence": 0.6624
+    },
+    {
+      "image": "Bird (92).jpg",
+      "true_label": "suciedad visible",
+      "pred_label": "panel limpio",
+      "confidence": 0.7896
+    },
+    {
+      "image": "14.JPG",
+      "true_label": "suciedad visible",
+      "pred_label": "grieta visible",
+      "confidence": 0.5217
+    },
+    {
+      "image": "Clean (168).jpg",
+      "true_label": "panel limpio",
+      "pred_label": "suciedad visible",
+      "confidence": 0.8252
+    },
+    {
+      "image": "Clean (191).jpg",
+      "true_label": "panel limpio",
+      "pred_label": "suciedad visible",
+      "confidence": 0.9571
+    }
+  ],
+  "model_artifact": "/home/gerardo/dev/python/SI-FINAL/artifacts/models/rgb_classifier.pt"
+}

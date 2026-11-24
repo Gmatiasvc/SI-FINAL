@@ -1,0 +1,148 @@
+[
+  {
+    "order_id": "ORD-20261124-CD9C5D",
+    "created_at_utc": "2026-11-24T19:20:45.961408+00:00",
+    "panel_id": "STRING-04-PANEL-12",
+    "priority": "MEDIA",
+    "diagnosis_summary": "Visual=suciedad visible (confianza 1.00)",
+    "pasos_revision": [
+      "Programar limpieza húmeda con agua desmineralizada (< 50 ppm TDS) a baja presión (< 35 bar) y cepillo de cerdas suaves en horario de baja irradiancia.",
+      "Referencia recuperada (Guia_Inspeccion_Visual_Paneles_RGB.pdf, p. 2): Sección 2.2 — Protocolo Seguro de Limpieza de Paneles con Suciedad Visible Para tratar 'suciedad visible', programar limpieza en horas de baja irradiancia (amanecer o atardecer) pa...",
+      "Alcance sin termografía: no se infieren fallos eléctricos o térmicos internos sin medición térmica IR o verificación eléctrica presencial con instrumentación."
+    ],
+    "citas": [
+      "Guia_Inspeccion_Visual_Paneles_RGB.pdf (p. 2)",
+      "Guia_Inspeccion_Visual_Paneles_RGB.pdf (p. 1)"
+    ],
+    "approved_by_human": true,
+    "reviewer_note": "Limpieza programada para mañana 06:00 AM.",
+    "status": "EMITIDA_SIMULADA"
+  },
+  {
+    "order_id": "ORD-20261124-850E3B",
+    "created_at_utc": "2026-11-24T19:20:46.142967+00:00",
+    "panel_id": "STRING-07-PANEL-03",
+    "priority": "ALTA",
+    "diagnosis_summary": "Visual=grieta visible (confianza 1.00) | Térmica=Normal térmico (confianza 0.47)",
+    "pasos_revision": [
+      "Acordonar el módulo con vidrio fracturado y PROHIBIR limpieza húmeda hasta medir resistencia de aislamiento (Megger) por riesgo de humedad y falla a tierra.",
+      "Referencia recuperada (Manual_Mantenimiento_Inversor_FV_2026.pdf, p. 2): Sección 1.2 — Controles Manuales en Campo ante Alerta de Inversor Cuando la baja generación coincide con suciedad visible o sombreado parcial, los controles manuales recomendados i..."
+    ],
+    "citas": [
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 2)",
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 1)"
+    ],
+    "approved_by_human": true,
+    "reviewer_note": "Confirmada grieta + hotspot; cuadrilla despachada con Megger.",
+    "status": "EMITIDA_SIMULADA"
+  },
+  {
+    "order_id": "ORD-20261124-84525A",
+    "created_at_utc": "2026-11-24T19:22:27.025477+00:00",
+    "panel_id": "PANEL-TEST-S3",
+    "priority": "MEDIA",
+    "diagnosis_summary": "Visual=suciedad visible (confianza 1.00) | Térmica=Normal térmico (confianza 0.47)",
+    "pasos_revision": [
+      "Programar limpieza húmeda con agua desmineralizada (< 50 ppm TDS) a baja presión (< 35 bar) y cepillo de cerdas suaves en horario de baja irradiancia.",
+      "Referencia recuperada (Manual_Mantenimiento_Inversor_FV_2026.pdf, p. 2): Sección 1.2 — Controles Manuales en Campo ante Alerta de Inversor Cuando la baja generación coincide con suciedad visible o sombreado parcial, los controles manuales recomendados i..."
+    ],
+    "citas": [
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 2)",
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 1)"
+    ],
+    "approved_by_human": true,
+    "reviewer_note": "OK pytest",
+    "status": "EMITIDA_SIMULADA"
+  },
+  {
+    "order_id": "ORD-20261124-8282B3",
+    "created_at_utc": "2026-11-24T20:18:54.782142+00:00",
+    "panel_id": "PANEL-TEST-S3",
+    "priority": "MEDIA",
+    "diagnosis_summary": "Visual=suciedad visible (confianza 1.00) | Térmica=Normal térmico (confianza 0.47)",
+    "pasos_revision": [
+      "Programar limpieza húmeda con agua desmineralizada (< 50 ppm TDS) a baja presión (< 35 bar) y cepillo de cerdas suaves en horario de baja irradiancia.",
+      "Referencia recuperada (Manual_Mantenimiento_Inversor_FV_2026.pdf, p. 2): Sección 1.2 — Controles Manuales en Campo ante Alerta de Inversor Cuando la baja generación coincide con suciedad visible o sombreado parcial, los controles manuales recomendados i..."
+    ],
+    "citas": [
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 2)",
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 1)"
+    ],
+    "approved_by_human": true,
+    "reviewer_note": "OK pytest",
+    "status": "EMITIDA_SIMULADA"
+  },
+  {
+    "order_id": "ORD-20261124-294B34",
+    "created_at_utc": "2026-11-24T20:19:24.690199+00:00",
+    "panel_id": "PANEL-TEST-S3",
+    "priority": "MEDIA",
+    "diagnosis_summary": "Visual=suciedad visible (confianza 1.00) | Térmica=Normal térmico (confianza 0.47)",
+    "pasos_revision": [
+      "Programar limpieza húmeda con agua desmineralizada (< 50 ppm TDS) a baja presión (< 35 bar) y cepillo de cerdas suaves en horario de baja irradiancia.",
+      "Referencia recuperada (Manual_Mantenimiento_Inversor_FV_2026.pdf, p. 2): Sección 1.2 — Controles Manuales en Campo ante Alerta de Inversor Cuando la baja generación coincide con suciedad visible o sombreado parcial, los controles manuales recomendados i..."
+    ],
+    "citas": [
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 2)",
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 1)"
+    ],
+    "approved_by_human": true,
+    "reviewer_note": "OK pytest",
+    "status": "EMITIDA_SIMULADA"
+  },
+  {
+    "order_id": "ORD-20261124-F1ADD9",
+    "created_at_utc": "2026-11-24T20:20:04.130355+00:00",
+    "panel_id": "STRING-07-PANEL-03",
+    "priority": "ALTA",
+    "diagnosis_summary": "Visual=grieta visible (confianza 1.00) | Térmica=Normal térmico (confianza 0.47)",
+    "pasos_revision": [
+      "Acordonar el módulo con vidrio fracturado y PROHIBIR limpieza húmeda hasta medir resistencia de aislamiento (Megger) por riesgo de humedad y falla a tierra.",
+      "Referencia recuperada (Manual_Mantenimiento_Inversor_FV_2026.pdf, p. 2): Sección 1.2 — Controles Manuales en Campo ante Alerta de Inversor Cuando la baja generación coincide con suciedad visible o sombreado parcial, los controles manuales recomendados i..."
+    ],
+    "citas": [
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 2)",
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 1)"
+    ],
+    "approved_by_human": true,
+    "reviewer_note": "Verificado en tablero SolarGuard AI.",
+    "status": "EMITIDA_SIMULADA"
+  },
+  {
+    "order_id": "ORD-20261124-2CA5E4",
+    "created_at_utc": "2026-11-24T20:24:07.331958+00:00",
+    "panel_id": "STRING-04-PANEL-12",
+    "priority": "MEDIA",
+    "diagnosis_summary": "Visual=suciedad visible (confianza 1.00)",
+    "pasos_revision": [
+      "Programar limpieza húmeda con agua desmineralizada (< 50 ppm TDS) a baja presión (< 35 bar) y cepillo de cerdas suaves en horario de baja irradiancia.",
+      "Referencia recuperada (Manual_Mantenimiento_Inversor_FV_2026.pdf, p. 2): Sección 1.2 — Controles Manuales en Campo ante Alerta de Inversor Cuando la baja generación coincide con suciedad visible o sombreado parcial, los controles manuales recomendados i...",
+      "Alcance sin termografía: no se infieren fallos eléctricos o térmicos internos sin medición térmica IR o verificación eléctrica presencial con instrumentación."
+    ],
+    "citas": [
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 2)",
+      "Guia_Inspeccion_Visual_Paneles_RGB.pdf (p. 2)"
+    ],
+    "approved_by_human": true,
+    "reviewer_note": "Verificado en tablero SolarGuard AI.",
+    "status": "EMITIDA_SIMULADA"
+  },
+  {
+    "order_id": "ORD-20261124-5C707F",
+    "created_at_utc": "2026-11-24T20:24:08.821186+00:00",
+    "panel_id": "STRING-07-PANEL-03",
+    "priority": "ALTA",
+    "diagnosis_summary": "Visual=grieta visible (confianza 1.00) | Térmica=Normal térmico (confianza 0.47)",
+    "pasos_revision": [
+      "Acordonar el módulo con vidrio fracturado y PROHIBIR limpieza húmeda hasta medir resistencia de aislamiento (Megger) por riesgo de humedad y falla a tierra.",
+      "Referencia recuperada (Manual_Mantenimiento_Inversor_FV_2026.pdf, p. 2): Sección 1.2 — Controles Manuales en Campo ante Alerta de Inversor Cuando la baja generación coincide con suciedad visible o sombreado parcial, los controles manuales recomendados i..."
+    ],
+    "citas": [
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 2)",
+      "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 1)"
+    ],
+    "approved_by_human": true,
+    "reviewer_note": "Verificado en tablero SolarGuard AI.",
+    "status": "EMITIDA_SIMULADA"
+  }
+]

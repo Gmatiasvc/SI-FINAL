@@ -1,0 +1,819 @@
+image_path,raw_folder,label,phash_hex,width,height,is_synthetic,cluster_id,split
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (1).jpeg,Bird-drop,suciedad visible,ff80831ffc38f021,190,250,False,cluster_0000,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (10).jpg,Bird-drop,suciedad visible,84a3b0955aa66af7,474,474,False,cluster_0001,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (100).jpg,Bird-drop,suciedad visible,c66d7f3981f0c170,1512,2016,False,cluster_0002,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (101).jpg,Bird-drop,suciedad visible,8be6b1c7c691308f,1536,2048,False,cluster_0003,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (102).jpg,Bird-drop,suciedad visible,b08b9ab4998e9b9c,2016,1512,False,cluster_0004,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (103).jpg,Bird-drop,suciedad visible,acb5d756515451d1,960,720,False,cluster_0005,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (104).jpg,Bird-drop,suciedad visible,f99282c7cce1705e,2016,1512,False,cluster_0006,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (105).jpg,Bird-drop,suciedad visible,d8a02de84e2ced6e,960,720,False,cluster_0007,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (106).jpg,Bird-drop,suciedad visible,d4c2ea9f0e97203e,720,960,False,cluster_0008,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (107).jpg,Bird-drop,suciedad visible,92d569ba68dd5b80,1024,768,False,cluster_0009,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (108).jpg,Bird-drop,suciedad visible,db84e4928f64179b,800,533,False,cluster_0010,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (109).jpg,Bird-drop,suciedad visible,90e66f6891275c8f,816,459,False,cluster_0011,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (11).jpg,Bird-drop,suciedad visible,fec59e081f04bf0c,1427,951,False,cluster_0012,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (110).jpg,Bird-drop,suciedad visible,f887a098e7d2a8d5,1512,2016,False,cluster_0013,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (111).jpg,Bird-drop,suciedad visible,809759c778df4691,1500,1225,False,cluster_0014,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (112).jpg,Bird-drop,suciedad visible,c8737c83386cebe0,700,510,False,cluster_0015,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (113).jpg,Bird-drop,suciedad visible,83b55ab55a174b54,1440,810,False,cluster_0016,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (114).jpg,Bird-drop,suciedad visible,80f6ddc679c65158,800,600,False,cluster_0017,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (115).jpg,Bird-drop,suciedad visible,cad553aa750f6521,1600,1290,False,cluster_0018,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (116).jpg,Bird-drop,suciedad visible,f887a098e7d2a8d5,1512,2016,False,cluster_0013,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (117).jpg,Bird-drop,suciedad visible,90d3688339db59b5,1500,1102,False,cluster_0019,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (118).jpg,Bird-drop,suciedad visible,92d569ba68dd5b80,1024,768,False,cluster_0009,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (119).jpg,Bird-drop,suciedad visible,aaad6aa436ea9534,2016,1512,False,cluster_0020,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (12).jpg,Bird-drop,suciedad visible,f3c7b1cc9c710741,318,158,False,cluster_0021,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (120).jpg,Bird-drop,suciedad visible,c6d139a7ce1139c6,800,533,False,cluster_0022,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (121).jpg,Bird-drop,suciedad visible,90e66f6891275c8f,816,459,False,cluster_0011,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (122).jpg,Bird-drop,suciedad visible,b4d74aca4aa9c98b,300,225,False,cluster_0023,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (123).jpg,Bird-drop,suciedad visible,d2f4a60bd9e4649a,1001,1600,False,cluster_0024,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (124).jpg,Bird-drop,suciedad visible,cbc6b20d7906ec99,900,675,False,cluster_0025,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (125).jpg,Bird-drop,suciedad visible,f3c7b1cc9c710741,800,399,False,cluster_0021,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (126).jpg,Bird-drop,suciedad visible,ad8638a9695e54b5,1500,1105,False,cluster_0026,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (127).jpg,Bird-drop,suciedad visible,a186dcc0a7d6b27a,1024,768,False,cluster_0027,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (128).jpg,Bird-drop,suciedad visible,d13c27601b8b78ee,1280,720,False,cluster_0028,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (129).jpg,Bird-drop,suciedad visible,99846aa263df549d,1500,1105,False,cluster_0029,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (13).jpg,Bird-drop,suciedad visible,db84e4928f64179b,800,533,False,cluster_0010,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (130).jpg,Bird-drop,suciedad visible,f3c7b1cc9c710741,800,399,False,cluster_0021,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (131).jpg,Bird-drop,suciedad visible,ade8dda56887428b,1500,1024,False,cluster_0030,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (132).jpg,Bird-drop,suciedad visible,aa55c51fe438c1b9,259,194,False,cluster_0031,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (133).jpg,Bird-drop,suciedad visible,fec59e081f04bf0c,1427,951,False,cluster_0012,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (134).JPG,Bird-drop,suciedad visible,fb90831dfc38f031,180,244,False,cluster_0000,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (135).jpg,Bird-drop,suciedad visible,ead4e4f0cb84e8c9,1000,750,False,cluster_0032,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (136).JPG,Bird-drop,suciedad visible,eab5d535c0630b63,975,678,False,cluster_0033,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (137).JPG,Bird-drop,suciedad visible,aad5cfbea0999441,489,295,False,cluster_0034,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (138).JPG,Bird-drop,suciedad visible,84fa31ca8d3239f6,632,427,False,cluster_0035,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (139).jpg,Bird-drop,suciedad visible,ead4e4f0cb84e8c9,1000,750,False,cluster_0032,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (14).JPG,Bird-drop,suciedad visible,f9a68c9c8bae088f,592,374,False,cluster_0036,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (140).jpg,Bird-drop,suciedad visible,b083dfac562347b2,800,600,False,cluster_0037,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (141).jpg,Bird-drop,suciedad visible,ff80b162c9551f32,474,267,False,cluster_0038,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (142).jpg,Bird-drop,suciedad visible,ff80b162c9551f32,474,267,False,cluster_0038,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (143).jpg,Bird-drop,suciedad visible,a2cc9780d6df9a8c,474,355,False,cluster_0039,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (144).jpg,Bird-drop,suciedad visible,adc9933af2625f40,474,355,False,cluster_0040,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (145).jpg,Bird-drop,suciedad visible,c8737c83386cebe0,700,510,False,cluster_0015,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (146).jpg,Bird-drop,suciedad visible,ccb386954c37cc72,474,316,False,cluster_0041,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (147).jpg,Bird-drop,suciedad visible,adc9933af2625f40,474,355,False,cluster_0040,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (148).jpg,Bird-drop,suciedad visible,ad8a95fdd2435e40,450,300,False,cluster_0042,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (149).jpg,Bird-drop,suciedad visible,e39321650ff1a5b8,474,632,False,cluster_0043,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (15).JPG,Bird-drop,suciedad visible,b2ad93c41fc6784c,548,430,False,cluster_0044,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (150).jpg,Bird-drop,suciedad visible,f11c61587fc1e8b1,474,632,False,cluster_0045,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (159).jpg,Bird-drop,suciedad visible,9f89c0a9e4c7a9c9,474,578,False,cluster_0046,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (16).JPG,Bird-drop,suciedad visible,acdb2628bbe3861a,473,477,False,cluster_0047,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (160).jpg,Bird-drop,suciedad visible,a2cc9780d6df9a8c,980,735,False,cluster_0039,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (161).jpg,Bird-drop,suciedad visible,a2654e4fc7c2076e,620,827,False,cluster_0048,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (162).jpg,Bird-drop,suciedad visible,f897aae566640d31,364,307,False,cluster_0049,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (163).jpg,Bird-drop,suciedad visible,cbc6b20d7906ec99,900,675,False,cluster_0025,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (164).jpg,Bird-drop,suciedad visible,feaff3eae0d00003,638,476,False,cluster_0050,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (165).jpg,Bird-drop,suciedad visible,92d569ba68dd5b80,768,576,False,cluster_0009,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (166).jpg,Bird-drop,suciedad visible,ebaae8c11d35b186,480,360,False,cluster_0051,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (167).JPG,Bird-drop,suciedad visible,aad5cfbea0998851,493,289,False,cluster_0034,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (168).jpg,Bird-drop,suciedad visible,fec59e081f04bf0c,1427,951,False,cluster_0012,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (169).jpg,Bird-drop,suciedad visible,c79838a3c7383ce5,533,533,False,cluster_0052,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (17).jpg,Bird-drop,suciedad visible,bf98815ee848f968,474,632,False,cluster_0053,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (170).JPG,Bird-drop,suciedad visible,a9dae6ee8e8c04c5,522,371,False,cluster_0054,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (171).JPG,Bird-drop,suciedad visible,9de2629ce5629ae4,581,769,False,cluster_0055,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (172).jpg,Bird-drop,suciedad visible,bf98815ee848f968,474,632,False,cluster_0053,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (173).jpg,Bird-drop,suciedad visible,c083b19a379f3f18,474,632,False,cluster_0056,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (174).jpg,Bird-drop,suciedad visible,ff80831ffc38f021,190,250,False,cluster_0000,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (175).jpg,Bird-drop,suciedad visible,c3b534526a133f2b,474,474,False,cluster_0057,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (176).jpg,Bird-drop,suciedad visible,b083dfac562347b2,800,600,False,cluster_0037,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (177).jpg,Bird-drop,suciedad visible,aad5d098aa8a7baa,1920,1080,False,cluster_0058,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (178).jpg,Bird-drop,suciedad visible,a2cc9780d6df9a8c,980,735,False,cluster_0039,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (179).JPG,Bird-drop,suciedad visible,9699a992ed2d922d,1162,733,False,cluster_0059,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (18).jpg,Bird-drop,suciedad visible,cad553aa750f6521,474,382,False,cluster_0018,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (180).jpg,Bird-drop,suciedad visible,c9b6c9a097da89e4,300,200,False,cluster_0060,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (181).jpg,Bird-drop,suciedad visible,b8d1998b94e0eae6,657,469,False,cluster_0061,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (182).jpg,Bird-drop,suciedad visible,adc9933af2625f40,474,355,False,cluster_0040,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (183).jpg,Bird-drop,suciedad visible,c3b534526a133f2b,474,474,False,cluster_0057,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (184).jpg,Bird-drop,suciedad visible,b083dfac562347b2,800,600,False,cluster_0037,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (185).jpg,Bird-drop,suciedad visible,8ec36ba4d03badc4,406,306,False,cluster_0062,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (186).jpg,Bird-drop,suciedad visible,dfec6198988e2c3c,575,241,False,cluster_0063,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (187).jpg,Bird-drop,suciedad visible,cfaea5a793988c24,360,322,False,cluster_0064,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (188).jpg,Bird-drop,suciedad visible,dce09591acd227bc,1200,800,False,cluster_0065,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (189).jpg,Bird-drop,suciedad visible,e9d4a85681faa59a,768,1024,False,cluster_0066,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (19).jpg,Bird-drop,suciedad visible,f11c61587fc1e8b1,474,632,False,cluster_0045,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (190).jpg,Bird-drop,suciedad visible,f887a098e7d2a9d1,194,259,False,cluster_0013,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (191).jpg,Bird-drop,suciedad visible,a186dcc0a7d6b27a,259,194,False,cluster_0027,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (192).jpg,Bird-drop,suciedad visible,d9b546b34c8574a9,259,194,False,cluster_0067,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (193).jpg,Bird-drop,suciedad visible,ad48dd2de807c31b,278,181,False,cluster_0068,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (194).jpg,Bird-drop,suciedad visible,f887a098e7d2a9d1,194,259,False,cluster_0013,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (195).jpg,Bird-drop,suciedad visible,aa55c51fe438c1b9,259,194,False,cluster_0031,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (196).jpg,Bird-drop,suciedad visible,d9b546b34c8574a9,259,194,False,cluster_0067,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (197).jpg,Bird-drop,suciedad visible,a186dcc0a7d6b27a,259,194,False,cluster_0027,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (198).JPG,Bird-drop,suciedad visible,aa64aba4bbb42956,625,463,False,cluster_0069,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (2).JPG,Bird-drop,suciedad visible,b4d74aca4aabc989,263,197,False,cluster_0023,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (20).jpg,Bird-drop,suciedad visible,f887a098e7d2a8d5,480,640,False,cluster_0013,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (21).jpg,Bird-drop,suciedad visible,f887a098e7d2a8d5,980,1307,False,cluster_0013,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (22).jpg,Bird-drop,suciedad visible,b083dfac562347b2,800,600,False,cluster_0037,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (23).JPG,Bird-drop,suciedad visible,b4a0a7f0871fd20f,449,359,False,cluster_0070,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (24).JPG,Bird-drop,suciedad visible,aaecc9c681235cfa,503,742,False,cluster_0071,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (25).jpg,Bird-drop,suciedad visible,87dc95b684b6e40e,474,632,False,cluster_0072,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (26).JPG,Bird-drop,suciedad visible,fe83a0b6935c5a38,470,591,False,cluster_0073,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (27).JPG,Bird-drop,suciedad visible,d19f60fe93900766,1093,538,False,cluster_0074,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (28).jpg,Bird-drop,suciedad visible,fc9f87505368898d,474,355,False,cluster_0075,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (29).jpg,Bird-drop,suciedad visible,dbcad962867e30c1,3024,4032,False,cluster_0076,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (3).jpeg,Bird-drop,suciedad visible,d8cc9325d1a52f74,1600,900,False,cluster_0077,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (3).jpg,Bird-drop,suciedad visible,d82dd3aa96b92a91,300,300,False,cluster_0078,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (30).jpg,Bird-drop,suciedad visible,c8737c83386cebe0,700,510,False,cluster_0015,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (31).JPG,Bird-drop,suciedad visible,98ea27b38dcc6651,221,202,False,cluster_0079,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (32).JPG,Bird-drop,suciedad visible,aad5cfbca0998c51,494,296,False,cluster_0034,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (33).jpg,Bird-drop,suciedad visible,c2fcb3090432dfd9,1600,1200,False,cluster_0080,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (34).jpg,Bird-drop,suciedad visible,aaecf2894a28f1c7,474,256,False,cluster_0081,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (35).jpg,Bird-drop,suciedad visible,ff004e5e4664e3c5,474,353,False,cluster_0082,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (36).jpg,Bird-drop,suciedad visible,ccb386954c37cc72,600,400,False,cluster_0041,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (37).jpg,Bird-drop,suciedad visible,827ebb310ec72279,474,355,False,cluster_0083,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (38).jpg,Bird-drop,suciedad visible,ff80831ffc38f021,190,250,False,cluster_0000,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (39).jpg,Bird-drop,suciedad visible,a2cc9780d6df9a8c,474,355,False,cluster_0039,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (4).jpg,Bird-drop,suciedad visible,84a3b0955aa66af7,474,474,False,cluster_0001,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (40).jpg,Bird-drop,suciedad visible,84a3b0955aa66af7,474,474,False,cluster_0001,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (41).jpg,Bird-drop,suciedad visible,827ebb310ec72279,474,355,False,cluster_0083,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (42).jpg,Bird-drop,suciedad visible,80e8bf6acdc69171,474,355,False,cluster_0084,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (43).jpg,Bird-drop,suciedad visible,f887a098e7d2a8d5,1080,1440,False,cluster_0013,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (44).jpg,Bird-drop,suciedad visible,c8737c83386cebe0,700,510,False,cluster_0015,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (45).jpg,Bird-drop,suciedad visible,b8d1998b94e0eae6,657,469,False,cluster_0061,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (46).jpg,Bird-drop,suciedad visible,b083dfac562347b2,800,600,False,cluster_0037,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (47).jpg,Bird-drop,suciedad visible,d9f2a6cc59b3c025,768,512,False,cluster_0085,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (48).jpg,Bird-drop,suciedad visible,92d569ba68dd5b80,500,375,False,cluster_0009,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (49).jpg,Bird-drop,suciedad visible,c7b938a3ce7038c5,931,768,False,cluster_0086,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (5).jpg,Bird-drop,suciedad visible,d46a2b2d4e7a2a8e,474,345,False,cluster_0087,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (50).jpg,Bird-drop,suciedad visible,9cc9f0e9f0d239d0,2448,3264,False,cluster_0088,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (51).jpg,Bird-drop,suciedad visible,f897aae566640d31,364,307,False,cluster_0049,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (52).jpg,Bird-drop,suciedad visible,feaff3eae0d00003,638,476,False,cluster_0050,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (53).jpg,Bird-drop,suciedad visible,c7b938a3ce7038c5,931,768,False,cluster_0086,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (54).jpg,Bird-drop,suciedad visible,9fb84872311bec8d,178,189,False,cluster_0089,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (55).jpg,Bird-drop,suciedad visible,92d569ba68dd5b80,768,576,False,cluster_0009,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (56).jpg,Bird-drop,suciedad visible,a750b7c0891786df,879,943,False,cluster_0090,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (57).jpg,Bird-drop,suciedad visible,b083dfac562347b2,800,600,False,cluster_0037,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (58).jpg,Bird-drop,suciedad visible,feaff3eae0d00003,638,476,False,cluster_0050,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (59).jpg,Bird-drop,suciedad visible,fe8dd0882afa06d5,514,184,False,cluster_0091,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (6).jpg,Bird-drop,suciedad visible,adc9933af2625f40,474,355,False,cluster_0040,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (60).jpg,Bird-drop,suciedad visible,ebaae8c11d35b186,480,360,False,cluster_0051,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (61).jpg,Bird-drop,suciedad visible,ff80b162c9551f32,1500,847,False,cluster_0038,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (62).jpg,Bird-drop,suciedad visible,ff80b162c9551f32,1500,847,False,cluster_0038,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (63).jpg,Bird-drop,suciedad visible,aa55d56a954a354b,980,735,False,cluster_0092,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (64).jpg,Bird-drop,suciedad visible,a2cc9780d6df9a8c,980,735,False,cluster_0039,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (65).jpg,Bird-drop,suciedad visible,b8d1998b94e0eae6,657,469,False,cluster_0061,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (66).jpg,Bird-drop,suciedad visible,9716b938b39585a9,474,632,False,cluster_0093,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (67).jpg,Bird-drop,suciedad visible,a2654e4fc7c2076e,620,827,False,cluster_0048,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (68).jpg,Bird-drop,suciedad visible,a8637ddca9818796,614,465,False,cluster_0094,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (69).JPG,Bird-drop,suciedad visible,b4a38f5a0f59e02d,591,587,False,cluster_0095,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (7).jpg,Bird-drop,suciedad visible,feaff1caa0950207,2411,1836,False,cluster_0096,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (70).jpg,Bird-drop,suciedad visible,d46a2b2d4e7a2a8e,474,345,False,cluster_0087,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (71).jpg,Bird-drop,suciedad visible,e9d4a85681faa59a,474,632,False,cluster_0066,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (72).jpg,Bird-drop,suciedad visible,a5d0012bbf3f3c8a,474,632,False,cluster_0097,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (73).jpg,Bird-drop,suciedad visible,cac8ce5e587c7870,474,322,False,cluster_0098,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (74).jpg,Bird-drop,suciedad visible,87dc95b684b6e40e,474,632,False,cluster_0072,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (75).jpg,Bird-drop,suciedad visible,fac1827db0032f3e,720,960,False,cluster_0099,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (76).jpg,Bird-drop,suciedad visible,f887a098e7d2a8d5,1512,2016,False,cluster_0013,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (77).jpg,Bird-drop,suciedad visible,90d3688339db59b5,1500,1102,False,cluster_0019,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (78).jpg,Bird-drop,suciedad visible,b2aba0878a8afcf8,640,480,False,cluster_0100,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (79).jpg,Bird-drop,suciedad visible,aaad6aa436ea9534,2016,1512,False,cluster_0020,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (8).jpg,Bird-drop,suciedad visible,84a3b0955aa66af7,474,474,False,cluster_0001,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (80).jpg,Bird-drop,suciedad visible,acb5d756515451d1,960,720,False,cluster_0005,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (81).jpg,Bird-drop,suciedad visible,d9b546b34c8574a9,986,740,False,cluster_0067,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (82).jpg,Bird-drop,suciedad visible,a9483393cb9c1bc7,1024,768,False,cluster_0101,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (83).jpg,Bird-drop,suciedad visible,b2aba087aa8af8f8,1024,768,False,cluster_0100,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (84).jpg,Bird-drop,suciedad visible,9f53de8bc8ad40a2,275,183,False,cluster_0102,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (85).jpg,Bird-drop,suciedad visible,e0b28d71c8e7f170,720,960,False,cluster_0103,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (86).jpg,Bird-drop,suciedad visible,aaad6aa436ea9534,2016,1512,False,cluster_0020,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (87).jpg,Bird-drop,suciedad visible,d9b546b34c8574a9,986,740,False,cluster_0067,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (88).jpg,Bird-drop,suciedad visible,95fac4b54ae925c2,720,960,False,cluster_0104,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (89).jpg,Bird-drop,suciedad visible,b89fc158a714a35b,720,960,False,cluster_0105,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (9).jpg,Bird-drop,suciedad visible,fd8bf0c7feb20400,601,600,False,cluster_0106,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (90).jpg,Bird-drop,suciedad visible,a672883d6e932d53,720,960,False,cluster_0107,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (91).jpg,Bird-drop,suciedad visible,bbd5c2a495d0d5d0,2048,1536,False,cluster_0108,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (92).jpg,Bird-drop,suciedad visible,d9a0a59bf5740aac,2560,1920,False,cluster_0109,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (93).jpg,Bird-drop,suciedad visible,bf85a4b3c871d09a,720,960,False,cluster_0110,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (94).jpg,Bird-drop,suciedad visible,d5ab8af50cf00af4,1536,2048,False,cluster_0111,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (95).jpg,Bird-drop,suciedad visible,be53c13392a91cce,720,960,False,cluster_0112,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (96).jpg,Bird-drop,suciedad visible,ae57663aa49ac662,720,960,False,cluster_0113,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (97).jpg,Bird-drop,suciedad visible,99f66e192524b13e,720,960,False,cluster_0114,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (98).jpg,Bird-drop,suciedad visible,fad58c81a7ce448b,1536,2048,False,cluster_0115,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/Bird (99).jpg,Bird-drop,suciedad visible,acb5d756515451d1,960,720,False,cluster_0005,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/1.JPG,Bird-drop,suciedad visible,af92cf4da5d4828a,803,806,False,cluster_0116,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/10.JPG,Bird-drop,suciedad visible,fd020f8e7c807e78,628,480,False,cluster_0117,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/11.JPG,Bird-drop,suciedad visible,8ac8c60e587e7e78,502,344,False,cluster_0118,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/12.JPG,Bird-drop,suciedad visible,80b2c9e6f9e6c1d8,968,716,False,cluster_0119,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/13.JPG,Bird-drop,suciedad visible,905d4aa53bd93d70,383,245,False,cluster_0120,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/14.JPG,Bird-drop,suciedad visible,d6096d4e70cea935,379,227,False,cluster_0121,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/15.JPG,Bird-drop,suciedad visible,d9d966f20ddd1809,438,284,False,cluster_0122,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/16.JPG,Bird-drop,suciedad visible,ffbefa90a088918c,421,781,False,cluster_0123,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/2.JPG,Bird-drop,suciedad visible,c1fe980e07f0fa0e,601,805,False,cluster_0124,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/3.JPG,Bird-drop,suciedad visible,e4d09b3979e64c85,601,794,False,cluster_0125,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/4.JPG,Bird-drop,suciedad visible,fb86c9ee8932192a,594,796,False,cluster_0126,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/5.JPG,Bird-drop,suciedad visible,a2cbda9694e195a5,598,802,False,cluster_0127,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/6.JPG,Bird-drop,suciedad visible,bb838105078f6ecf,604,802,False,cluster_0128,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/7.JPG,Bird-drop,suciedad visible,84a3b9b450a67af6,458,459,False,cluster_0129,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/8.JPG,Bird-drop,suciedad visible,a1e69a60a27dd659,466,346,False,cluster_0130,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Bird-drop/New/9.JPG,Bird-drop,suciedad visible,aa64b9545b544be6,626,553,False,cluster_0131,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (1).jpeg,Clean,panel limpio,d6c54321172c3fda,500,500,False,cluster_0132,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (10).JPG,Clean,panel limpio,c9fef009ff40b640,1218,779,False,cluster_0133,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (100).jpg,Clean,panel limpio,ecd9ac5ab40a7661,1080,1080,False,cluster_0134,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (101).jpg,Clean,panel limpio,a4da96dd7860037e,960,720,False,cluster_0135,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (102).jpg,Clean,panel limpio,e383899c9c3c3d55,1536,2048,False,cluster_0136,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (103).jpg,Clean,panel limpio,b10cc3f3ecc07665,2047,1152,False,cluster_0137,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (104).jpg,Clean,panel limpio,8ed3d9c6d18ea588,960,678,False,cluster_0138,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (105).jpg,Clean,panel limpio,ae851ffe40612f91,474,316,False,cluster_0139,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (106).jpg,Clean,panel limpio,9f15a42c6feb3860,600,900,False,cluster_0140,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (107).jpg,Clean,panel limpio,98edc2a5b99c29d2,2364,2364,False,cluster_0141,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (108).jpg,Clean,panel limpio,b289e5e64368e595,1024,684,False,cluster_0142,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (109).jpg,Clean,panel limpio,c7868f83e0f8f0e8,1536,2048,False,cluster_0143,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (11).jpg,Clean,panel limpio,a991a6d9a4ea562d,1200,803,False,cluster_0144,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (110).jpg,Clean,panel limpio,eded838a0a1a1edc,720,960,False,cluster_0145,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (111).jpg,Clean,panel limpio,9de699646161616f,720,960,False,cluster_0146,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (112).jpg,Clean,panel limpio,eb9ae11a817b0973,720,960,False,cluster_0147,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (113).jpg,Clean,panel limpio,ada76d581a1d1317,1280,720,False,cluster_0148,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (114).jpg,Clean,panel limpio,eac02a75ba55eaa4,1200,600,False,cluster_0149,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (115).jpg,Clean,panel limpio,ff8089c9abb53252,800,600,False,cluster_0150,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (116).jpg,Clean,panel limpio,df840fc6fcc35007,1224,786,False,cluster_0151,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (117).jpg,Clean,panel limpio,9588eaa9d5d55a4a,2000,1333,False,cluster_0152,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (118).jpg,Clean,panel limpio,e5e5a785057d2127,250,250,False,cluster_0153,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (119).jpg,Clean,panel limpio,d89218b6b9949add,850,565,False,cluster_0154,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (12).jpg,Clean,panel limpio,89b6d3cac875643a,608,608,False,cluster_0155,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (120).jpg,Clean,panel limpio,fd82f85a7345a306,700,447,False,cluster_0156,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (121).jpg,Clean,panel limpio,ad435405a56af0bf,474,355,False,cluster_0157,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (122).jpg,Clean,panel limpio,af850f28b474b475,474,355,False,cluster_0158,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (123).jpg,Clean,panel limpio,a78aa1e697b1e44c,474,355,False,cluster_0159,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (124).jpg,Clean,panel limpio,abd4a306f8e1f344,910,888,False,cluster_0160,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (125).jpg,Clean,panel limpio,82c98eb5869bbd83,499,385,False,cluster_0161,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (126).jpg,Clean,panel limpio,c1c9e9a9814db1bd,450,450,False,cluster_0162,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (127).jpg,Clean,panel limpio,b2c8d285ddb2e8e2,474,355,False,cluster_0163,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (128).jpg,Clean,panel limpio,9e82bc93a098fbac,692,263,False,cluster_0164,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (129).jpg,Clean,panel limpio,c098afbffc230459,1334,1000,False,cluster_0165,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (13).jpg,Clean,panel limpio,c6c6d199193d4e66,3500,2330,False,cluster_0166,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (130).jpg,Clean,panel limpio,83f98ca69b57446a,2048,1536,False,cluster_0167,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (131).jpg,Clean,panel limpio,a1ceb368976dca44,2400,1800,False,cluster_0168,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (132).jpg,Clean,panel limpio,cfc8cccaa9651725,3072,2304,False,cluster_0169,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (133).jpg,Clean,panel limpio,aba56a95b057f441,1280,720,False,cluster_0170,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (134).jpg,Clean,panel limpio,afa1c0ded1d0f078,600,450,False,cluster_0171,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (135).JPG,Clean,panel limpio,cbbef041ff40b448,1131,775,False,cluster_0133,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (136).JPG,Clean,panel limpio,de91e69ced08a03d,788,740,False,cluster_0172,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (137).jpg,Clean,panel limpio,bb83ab978add8045,600,400,False,cluster_0173,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (138).jpg,Clean,panel limpio,ff80a9c5a5d2a9d0,1024,768,False,cluster_0174,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (139).JPG,Clean,panel limpio,ffffa2008691c691,1032,781,False,cluster_0175,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (14).jpg,Clean,panel limpio,92a5b9ca2c5926dd,1936,2592,False,cluster_0176,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (140).JPG,Clean,panel limpio,89b699c6790ea1ec,494,493,False,cluster_0177,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (141).JPG,Clean,panel limpio,c9fef009ff40b640,1218,779,False,cluster_0133,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (142).jpg,Clean,panel limpio,f5e0f0b4c8a956a9,1024,768,False,cluster_0178,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (143).jpg,Clean,panel limpio,dfdf9fc8c080c1c8,900,600,False,cluster_0179,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (144).jpg,Clean,panel limpio,b595d5d0db485a4a,474,355,False,cluster_0180,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (145).jpg,Clean,panel limpio,ae85b595e5841b3c,474,315,False,cluster_0181,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (146).jpg,Clean,panel limpio,88d6ebc4bfe00f30,696,470,False,cluster_0182,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (147).jpg,Clean,panel limpio,f5e0f0b4c8a956a9,474,355,False,cluster_0178,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (148).jpg,Clean,panel limpio,829aafb3e995e08a,474,316,False,cluster_0183,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (149).jpg,Clean,panel limpio,b09077455fd05d5c,702,468,False,cluster_0184,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (15).JPG,Clean,panel limpio,8bc93672507f3e22,1051,777,False,cluster_0185,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (150).jpg,Clean,panel limpio,d26d3e972d164b24,474,316,False,cluster_0186,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (151).jpg,Clean,panel limpio,aa934825547a5df9,600,400,False,cluster_0187,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (152).jpg,Clean,panel limpio,b4e9d2253eb05b4a,474,315,False,cluster_0188,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (153).jpg,Clean,panel limpio,bee9a4d6d51452c2,474,364,False,cluster_0189,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (154).jpg,Clean,panel limpio,9a09ee02af56ab55,1000,667,False,cluster_0190,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (155).jpg,Clean,panel limpio,afaaad04b5df140a,800,500,False,cluster_0191,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (156).jpg,Clean,panel limpio,eed075688185bb4b,1600,1067,False,cluster_0192,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (157).jpg,Clean,panel limpio,bee9a4d6d51452c2,474,364,False,cluster_0189,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (158).jpg,Clean,panel limpio,a8a99c8da692bc9e,350,300,False,cluster_0193,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (159).jpg,Clean,panel limpio,faf5888082fce4f1,800,533,False,cluster_0194,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (16).JPG,Clean,panel limpio,a5aa53cbdb0839e1,1121,777,False,cluster_0195,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (160).jpg,Clean,panel limpio,f5f0c0e8e0c8d6f1,474,475,False,cluster_0196,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (161).jpg,Clean,panel limpio,d26d3e972d164b24,474,316,False,cluster_0186,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (162).jpg,Clean,panel limpio,a245aec06d9e69f4,1200,550,False,cluster_0197,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (163).jpg,Clean,panel limpio,aaa10e23f7cb891d,500,400,False,cluster_0198,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (164).jpg,Clean,panel limpio,eb4287d4a7d84f60,800,600,False,cluster_0199,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (165).jpg,Clean,panel limpio,91c5d348db68c96d,700,933,False,cluster_0200,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (166).jpg,Clean,panel limpio,93a5ff708282e355,474,355,False,cluster_0201,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (167).jpg,Clean,panel limpio,c781f0d8b4ecf2e0,474,355,False,cluster_0202,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (168).jpg,Clean,panel limpio,a98b2ee4949d8f85,1280,960,False,cluster_0203,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (169).jpg,Clean,panel limpio,aee3d1e8b46a9289,1078,1078,False,cluster_0204,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (17).jpg,Clean,panel limpio,d3d2603e565c4d6c,800,600,False,cluster_0205,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (170).jpg,Clean,panel limpio,c4c16b9656631f5a,500,400,False,cluster_0206,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (171).jpg,Clean,panel limpio,be8ae1e47e464d18,474,316,False,cluster_0207,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (172).jpg,Clean,panel limpio,88b699c4f94ea1ec,640,640,False,cluster_0177,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (173).jpg,Clean,panel limpio,f0e70f78334126ce,2503,1676,False,cluster_0208,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (174).jpg,Clean,panel limpio,aec4d949f3b2342c,620,440,False,cluster_0209,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (175).jpg,Clean,panel limpio,d0e0df9e8102beba,700,500,False,cluster_0210,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (176).jpg,Clean,panel limpio,9f08ed5600ff2ac6,1280,853,False,cluster_0211,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (177).jpg,Clean,panel limpio,f9ee68b2d4412595,320,180,False,cluster_0212,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (178).jpg,Clean,panel limpio,f0e70f78334126ce,2503,1676,False,cluster_0208,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (179).jpg,Clean,panel limpio,a5921c4bc9ccea75,768,576,False,cluster_0213,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (18).jpg,Clean,panel limpio,9b9b9b088b1e98ba,768,1024,False,cluster_0214,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (180).jpg,Clean,panel limpio,a2a89ce7c91e1997,1152,640,False,cluster_0215,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (181).jpg,Clean,panel limpio,b6ca8ddec0d5c5c0,448,336,False,cluster_0216,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (182).jpg,Clean,panel limpio,dad2febd08ac1158,300,225,False,cluster_0217,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (183).jpg,Clean,panel limpio,c0df8827ba709778,1500,1000,False,cluster_0218,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (184).jpg,Clean,panel limpio,aeb1ce93e0a9c364,768,444,False,cluster_0219,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (185).jpg,Clean,panel limpio,ae5895eab06f94c8,690,464,False,cluster_0220,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (186).jpg,Clean,panel limpio,da843ffb856d0093,800,450,False,cluster_0221,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (187).jpg,Clean,panel limpio,e38d3ce05c9c429f,1024,768,False,cluster_0222,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (188).jpg,Clean,panel limpio,cfc8cccaa9651725,3072,2304,False,cluster_0169,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (189).jpg,Clean,panel limpio,dfd9133e3aa0c644,3264,2448,False,cluster_0223,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (19).jpg,Clean,panel limpio,aea9d7fe8055402e,5472,3648,False,cluster_0224,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (190).jpg,Clean,panel limpio,82c98eb5869bbd83,499,385,False,cluster_0161,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (191).jpg,Clean,panel limpio,c08207179f9efcb8,325,455,False,cluster_0225,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (192).jpg,Clean,panel limpio,ebd2a5adc41d842d,1400,1050,False,cluster_0226,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (193).png,Clean,panel limpio,d1e95af6919299c2,400,300,False,cluster_0227,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (2).jpg,Clean,panel limpio,d6a9d224b996d04f,358,343,False,cluster_0228,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (20).jpg,Clean,panel limpio,cdcc063ce027cfb8,3264,2448,False,cluster_0229,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (21).jpg,Clean,panel limpio,949489ea6760f6d9,5464,3640,False,cluster_0230,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (22).jpg,Clean,panel limpio,8490c5ee54eb5778,2560,1707,False,cluster_0231,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (23).jpg,Clean,panel limpio,a0807bf4cb3c87f8,1824,2048,False,cluster_0232,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (24).jpg,Clean,panel limpio,f08fb35e8b629825,5067,3370,False,cluster_0233,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (25).jpg,Clean,panel limpio,e16996649e999e94,720,800,False,cluster_0234,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (26).jpg,Clean,panel limpio,bf279df700fa2500,1536,2048,False,cluster_0235,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (27).jpg,Clean,panel limpio,aba5d54ad45ad44a,408,800,False,cluster_0236,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (28).jpg,Clean,panel limpio,b48a516b6075f2f1,1000,667,False,cluster_0237,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (29).jpg,Clean,panel limpio,86cd2752cbf568a8,800,485,False,cluster_0238,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (3).jpg,Clean,panel limpio,a9a4bbcca7d0aa15,736,494,False,cluster_0239,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (30).jpg,Clean,panel limpio,c0df8827ba709778,1500,1000,False,cluster_0218,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (31).jpg,Clean,panel limpio,be8ae1e47e464d18,1200,800,False,cluster_0207,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (32).jpg,Clean,panel limpio,f2f1c748e3a45153,900,506,False,cluster_0240,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (33).jpg,Clean,panel limpio,c9cccc0d4cc8cbd7,500,500,False,cluster_0241,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (34).jpg,Clean,panel limpio,f1c60e81d28d0fbd,533,800,False,cluster_0242,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (35).jpg,Clean,panel limpio,a59ac10ed0f3dcd1,600,400,False,cluster_0243,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (36).jpg,Clean,panel limpio,aaa3cac4e4e4e6e4,615,410,False,cluster_0244,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (37).jpg,Clean,panel limpio,e38cc3b4dfc07429,414,353,False,cluster_0245,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (38).jpg,Clean,panel limpio,cefc7aa38a442e31,300,300,False,cluster_0246,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (39).jpg,Clean,panel limpio,cc5873078dd962b6,499,332,False,cluster_0247,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (4).jpg,Clean,panel limpio,c7990ac1c5cb5357,768,768,False,cluster_0248,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (40).jpg,Clean,panel limpio,d6215faa1554a5d5,2000,1339,False,cluster_0249,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (41).jpg,Clean,panel limpio,b57e2551a65815ad,600,401,False,cluster_0250,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (42).jpg,Clean,panel limpio,8d268db933d9330d,1536,2048,False,cluster_0251,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (43).jpg,Clean,panel limpio,bed55e0a0f839591,1420,800,False,cluster_0252,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (44).jpg,Clean,panel limpio,b936b4c0c88d1fcb,1200,675,False,cluster_0253,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (45).jpg,Clean,panel limpio,e0ea8b009f1d9f9c,544,960,False,cluster_0254,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (46).jpg,Clean,panel limpio,aca0d4ed65755455,1080,1920,False,cluster_0255,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (47).jpg,Clean,panel limpio,f0c27d702fec3838,800,533,False,cluster_0256,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (48).jpg,Clean,panel limpio,88d4a3f92454fe93,400,260,False,cluster_0257,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (49).jpg,Clean,panel limpio,b82d97936cd1251b,1536,2048,False,cluster_0258,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (5).jpg,Clean,panel limpio,c0f07c5e3e7f5c00,499,333,False,cluster_0259,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (50).jpg,Clean,panel limpio,d68590b1dfe7c0c8,400,500,False,cluster_0260,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (51).jpg,Clean,panel limpio,d2c58294a7bcedb0,650,366,False,cluster_0261,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (52).jpg,Clean,panel limpio,ffc19a1127fe2007,800,716,False,cluster_0262,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (53).jpg,Clean,panel limpio,81adc6aa627f510f,6240,4160,False,cluster_0263,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (54).jpg,Clean,panel limpio,a24b4b75f5350b2a,1000,1000,False,cluster_0264,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (55).jpg,Clean,panel limpio,fe89fdd2402d00ee,1024,576,False,cluster_0265,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (56).jpg,Clean,panel limpio,bfc2c06b943dc0e5,600,400,False,cluster_0266,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (57).jpg,Clean,panel limpio,ff82c8acc83ec255,264,349,False,cluster_0267,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (58).jpg,Clean,panel limpio,bf8064a57b802e6f,3936,2624,False,cluster_0268,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (59).jpg,Clean,panel limpio,fe9595af80358097,262,337,False,cluster_0269,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (6).jpg,Clean,panel limpio,87d863666a6d646a,1365,2048,False,cluster_0270,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (60).jpg,Clean,panel limpio,e6e6e6268aea0a63,720,960,False,cluster_0271,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (61).jpg,Clean,panel limpio,ea8dd50cd40ef41e,720,960,False,cluster_0272,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (62).jpg,Clean,panel limpio,bf90c77abb00171c,720,960,False,cluster_0273,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (63).jpg,Clean,panel limpio,fdd9830618173c3d,720,960,False,cluster_0274,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (64).jpg,Clean,panel limpio,aad4b592959f928a,720,960,False,cluster_0275,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (65).jpg,Clean,panel limpio,eed385281a25765b,1536,2048,False,cluster_0276,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (66).jpg,Clean,panel limpio,dc732c138690c7bd,683,1024,False,cluster_0277,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (67).jpg,Clean,panel limpio,f7e4f1a4d2d4a114,260,352,False,cluster_0278,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (68).jpg,Clean,panel limpio,a889d4db4d464f27,4864,3648,False,cluster_0279,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (69).jpg,Clean,panel limpio,85e29b443f4461bf,700,525,False,cluster_0280,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (7).jpg,Clean,panel limpio,ffd2b4aad4a1a241,1420,798,False,cluster_0281,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (70).jpg,Clean,panel limpio,c4c00f83bcbf90ee,3648,2736,False,cluster_0282,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (71).jpg,Clean,panel limpio,bfc480b540437bfa,960,720,False,cluster_0283,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (72).jpg,Clean,panel limpio,e88ba841b435967f,720,960,False,cluster_0284,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (73).jpg,Clean,panel limpio,9784d76cc3ec81e8,720,960,False,cluster_0285,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (74).jpg,Clean,panel limpio,cc5873078dd962b6,3892,2586,False,cluster_0247,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (75).jpg,Clean,panel limpio,bb86a0d8d4e9d0e5,960,720,False,cluster_0286,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (76).jpg,Clean,panel limpio,fbd554522e956305,2592,1944,False,cluster_0287,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (77).jpg,Clean,panel limpio,afc7c2c3f4a0b8b0,720,960,False,cluster_0288,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (78).jpg,Clean,panel limpio,fffdfb100010cca3,1536,2048,False,cluster_0289,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (79).jpg,Clean,panel limpio,ae68bf00b927d8a5,1131,1882,False,cluster_0290,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (8).jpg,Clean,panel limpio,8fd0c57ba2329f12,700,467,False,cluster_0291,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (80).jpg,Clean,panel limpio,b3d457292b29296d,720,960,False,cluster_0292,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (81).jpg,Clean,panel limpio,9f229c629be629c6,1536,2048,False,cluster_0293,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (82).jpg,Clean,panel limpio,f85c8f2626a36b29,720,960,False,cluster_0294,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (83).jpg,Clean,panel limpio,bf8d8341866bab45,720,960,False,cluster_0295,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (84).jpg,Clean,panel limpio,c6c64e6aeaeae260,1536,2048,False,cluster_0296,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (85).jpg,Clean,panel limpio,b1b1917ef8e0891d,720,960,False,cluster_0297,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (86).jpg,Clean,panel limpio,f9c00f9e70d1b364,3000,1687,False,cluster_0298,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (87).jpg,Clean,panel limpio,aea9d7fe8055402e,5472,3648,False,cluster_0224,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (88).jpg,Clean,panel limpio,95da7be948819a9a,1440,1440,False,cluster_0299,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (89).jpg,Clean,panel limpio,a7c44b6d2d25b515,960,960,False,cluster_0300,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (9).jpg,Clean,panel limpio,c1dea09fc8f057c8,600,400,False,cluster_0301,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (90).jpg,Clean,panel limpio,aea9d7fe8055402e,5472,3648,False,cluster_0224,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (91).jpg,Clean,panel limpio,c6d43a50f592c5dc,1440,1440,False,cluster_0302,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (92).jpg,Clean,panel limpio,bede0a7e42e1ca81,960,720,False,cluster_0303,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (93).jpg,Clean,panel limpio,acb9c99990b9b1d4,1536,2048,False,cluster_0304,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (94).jpg,Clean,panel limpio,95a2b930ec8db693,2000,1334,False,cluster_0305,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (95).jpg,Clean,panel limpio,8282c3e3e1b595bd,2048,1536,False,cluster_0306,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (96).jpg,Clean,panel limpio,f092b636e006feb8,2048,1536,False,cluster_0307,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (97).jpg,Clean,panel limpio,ffd45242233f30b1,1080,1080,False,cluster_0308,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (98).jpg,Clean,panel limpio,94671e207e237c2f,1080,1080,False,cluster_0309,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Clean/Clean (99).jpg,Clean,panel limpio,d7ff5f5016242434,1080,1080,False,cluster_0310,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (1).jpg,Dusty,suciedad visible,bf4db26af2c00387,1000,750,False,cluster_0311,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (10).jpg,Dusty,suciedad visible,fa4330679872c7b8,640,480,False,cluster_0312,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (100).jpg,Dusty,suciedad visible,eac1033f3f3c183c,2048,921,False,cluster_0313,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (101).jpg,Dusty,suciedad visible,89d69189271bbaf1,2048,921,False,cluster_0314,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (102).jpg,Dusty,suciedad visible,81817165df1d953d,1374,1374,False,cluster_0315,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (103).jpg,Dusty,suciedad visible,c843688b80cfccff,1374,1374,False,cluster_0316,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (104).jpg,Dusty,suciedad visible,a05a522d8bf75c47,1440,1440,False,cluster_0317,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (105).jpg,Dusty,suciedad visible,88e388afb4d3566a,3648,2056,False,cluster_0318,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (106).jpg,Dusty,suciedad visible,b03e7ad1d10d9b1c,960,720,False,cluster_0319,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (107).jpg,Dusty,suciedad visible,95e9ca85d2b5ca85,2048,1536,False,cluster_0320,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (108).jpg,Dusty,suciedad visible,e6420596c7e3ee62,2048,1536,False,cluster_0321,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (109).jpg,Dusty,suciedad visible,a9b184758a657e0f,2048,1536,False,cluster_0322,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (11).jpg,Dusty,suciedad visible,c7aca03630772abe,1848,832,False,cluster_0323,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (110).jpg,Dusty,suciedad visible,99e6cc8bc6ec888b,2048,1536,False,cluster_0324,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (111).jpg,Dusty,suciedad visible,a0c092adbab5797a,2048,1536,False,cluster_0325,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (112).jpg,Dusty,suciedad visible,ee8c8e0e0b41e3e7,2048,1536,False,cluster_0326,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (113).jpg,Dusty,suciedad visible,cec9e9a171b27292,2048,1536,False,cluster_0327,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (114).jpg,Dusty,suciedad visible,95bdeae4c95a9460,828,1472,False,cluster_0328,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (115).jpg,Dusty,suciedad visible,80c86f25b577b253,960,1792,False,cluster_0329,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (116).jpg,Dusty,suciedad visible,bd19b0256bc22e3d,850,455,False,cluster_0330,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (117).jpg,Dusty,suciedad visible,8f846823eb1dcd35,514,960,False,cluster_0331,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (118).jpg,Dusty,suciedad visible,ffc5a035d23bc128,455,850,False,cluster_0332,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (119).jpg,Dusty,suciedad visible,ffc0c02da476f232,514,960,False,cluster_0333,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (12).jpg,Dusty,suciedad visible,81ff601c639f31cc,740,416,False,cluster_0334,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (120).jpg,Dusty,suciedad visible,beafb08895e498e2,5472,3080,False,cluster_0335,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (121).jpg,Dusty,suciedad visible,f88780ffc0d0ea78,2048,1166,False,cluster_0336,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (122).jpg,Dusty,suciedad visible,95aacd36c639c515,720,960,False,cluster_0337,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (123).jpg,Dusty,suciedad visible,bf98d83838bc1e8a,514,960,False,cluster_0338,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (124).jpg,Dusty,suciedad visible,aaeacdc5404fca69,1536,2048,False,cluster_0339,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (125).jpg,Dusty,suciedad visible,9ee0618fdf8d5224,720,960,False,cluster_0340,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (126).jpg,Dusty,suciedad visible,950eb461c28fcedc,960,720,False,cluster_0341,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (127).jpg,Dusty,suciedad visible,fcab80011f5f3f50,1600,1200,False,cluster_0342,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (128).jpg,Dusty,suciedad visible,ff90001fd59dd8b0,2048,1536,False,cluster_0343,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (129).jpg,Dusty,suciedad visible,edc636639b334192,960,720,False,cluster_0344,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (13).jpg,Dusty,suciedad visible,9eac3395c532acd2,280,280,False,cluster_0345,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (130).jpg,Dusty,suciedad visible,b095613e6629aef1,960,720,False,cluster_0346,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (131).jpg,Dusty,suciedad visible,b3ccf03fc3348ba0,960,720,False,cluster_0347,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (132).jpg,Dusty,suciedad visible,feaa6726023b8dc1,960,720,False,cluster_0348,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (133).jpg,Dusty,suciedad visible,aed1882497bbdd28,1078,1440,False,cluster_0349,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (134).jpg,Dusty,suciedad visible,b8a780bfd093e496,1078,1440,False,cluster_0350,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (135).jpg,Dusty,suciedad visible,e08a78973bc6708f,1500,1101,False,cluster_0351,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (136).jpg,Dusty,suciedad visible,f0866eb682564e76,1440,1440,False,cluster_0352,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (137).jpg,Dusty,suciedad visible,fac05f2af7d08138,1440,1440,False,cluster_0353,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (138).jpg,Dusty,suciedad visible,90409f7d4ebde609,1080,1080,False,cluster_0354,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (139).jpg,Dusty,suciedad visible,ca8a8c9c9cbdb0f1,1080,1080,False,cluster_0355,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (14).jpg,Dusty,suciedad visible,a992c5e0d55bc95c,1920,1280,False,cluster_0356,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (140).jpg,Dusty,suciedad visible,99036f7b78797101,1080,1080,False,cluster_0357,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (141).jpg,Dusty,suciedad visible,9de15f407d03780f,1080,1080,False,cluster_0358,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (142).jpg,Dusty,suciedad visible,d0952c8f38c23e9f,1500,1225,False,cluster_0359,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (143).jpg,Dusty,suciedad visible,fcc47e627c02f981,1080,1080,False,cluster_0360,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (144).jpg,Dusty,suciedad visible,aed5c800cbfdbd10,2048,1152,False,cluster_0361,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (145).jpg,Dusty,suciedad visible,d53a6f7d48850e0e,1080,1080,False,cluster_0362,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (146).jpg,Dusty,suciedad visible,ac191e783aa037e7,2048,1152,False,cluster_0363,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (147).jpg,Dusty,suciedad visible,d3eba536539a80d4,2048,1152,False,cluster_0364,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (148).jpg,Dusty,suciedad visible,8898abd6a8d2f4f2,2048,1152,False,cluster_0365,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (149).jpg,Dusty,suciedad visible,dfea242a8456ca9d,2048,1152,False,cluster_0366,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (15).jpg,Dusty,suciedad visible,d1da2536e93525ca,660,440,False,cluster_0367,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (150).jpg,Dusty,suciedad visible,83089d37edf922e4,2048,1152,False,cluster_0368,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (151).jpg,Dusty,suciedad visible,8b1bbd79480c0ede,2048,1152,False,cluster_0369,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (152).jpg,Dusty,suciedad visible,93dab685a5ad2139,2048,1152,False,cluster_0370,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (153).jpg,Dusty,suciedad visible,a8fa787a587a606c,2048,1152,False,cluster_0371,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (154).jpg,Dusty,suciedad visible,93903a3a361b5bd9,1536,2048,False,cluster_0372,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (155).jpg,Dusty,suciedad visible,ac91c4bbcf212c67,1536,2048,False,cluster_0373,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (156).jpg,Dusty,suciedad visible,ece266ce52961a9a,720,960,False,cluster_0374,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (157).jpg,Dusty,suciedad visible,a59b34697a75032e,960,960,False,cluster_0375,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (158).jpg,Dusty,suciedad visible,8783ca01e713dd1f,2048,1536,False,cluster_0376,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (159).jpg,Dusty,suciedad visible,fafd55c26a2f0d00,1536,2048,False,cluster_0377,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (16).jpg,Dusty,suciedad visible,edc74c6b6c636026,800,533,False,cluster_0378,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (160).jpg,Dusty,suciedad visible,a3b5d6528b091caf,2048,1536,False,cluster_0379,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (161).jpg,Dusty,suciedad visible,ee8abe22e41b845b,720,959,False,cluster_0380,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (162).jpg,Dusty,suciedad visible,ff80df12cca5a684,2048,1536,False,cluster_0381,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (163).jpg,Dusty,suciedad visible,c1e569e021915bdf,626,417,False,cluster_0382,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (164).jpg,Dusty,suciedad visible,ccaf551d15554a6a,285,177,False,cluster_0383,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (165).jpg,Dusty,suciedad visible,a7b3a3d8c6d58e04,1200,787,False,cluster_0384,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (166).jpg,Dusty,suciedad visible,edc74c6b6c636026,800,533,False,cluster_0378,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (167).jpg,Dusty,suciedad visible,adda0f104f725e61,612,459,False,cluster_0385,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (168).jpg,Dusty,suciedad visible,e49da0ce15e709d3,1500,1101,False,cluster_0386,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (169).jpg,Dusty,suciedad visible,98eee1c73801fec2,500,332,False,cluster_0387,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (17).jpg,Dusty,suciedad visible,fc8060e1e3ff014f,4032,2268,False,cluster_0388,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (170).jpg,Dusty,suciedad visible,88e388afb4d3564b,299,168,False,cluster_0318,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (171).jpg,Dusty,suciedad visible,f6ddc2190e636c83,1200,675,False,cluster_0389,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (172).jpg,Dusty,suciedad visible,edc74c6b6c636026,800,533,False,cluster_0378,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (173).jpg,Dusty,suciedad visible,82d5eac7cf18710e,800,600,False,cluster_0390,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (174).jpg,Dusty,suciedad visible,8ef32499c3b8174e,500,333,False,cluster_0391,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (175).jpg,Dusty,suciedad visible,90a5cab5aa566d33,1300,866,False,cluster_0392,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (176).jpg,Dusty,suciedad visible,e2792fb58f00cea1,474,355,False,cluster_0393,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (177).jpg,Dusty,suciedad visible,9ae31e710af50a8f,1305,734,False,cluster_0394,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (178).jpg,Dusty,suciedad visible,f8a02a9481afabaf,474,355,False,cluster_0395,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (179).jpg,Dusty,suciedad visible,c1fc08f707f811f8,620,464,False,cluster_0396,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (18).jpg,Dusty,suciedad visible,9782338857dbc4d3,640,480,False,cluster_0397,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (180).jpg,Dusty,suciedad visible,d5df64d020686b2f,1920,2560,False,cluster_0398,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (181).jpg,Dusty,suciedad visible,d6bae025d5aad42a,194,259,False,cluster_0399,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (182).jpg,Dusty,suciedad visible,a8d5ac55a954add4,273,184,False,cluster_0400,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (183).jpg,Dusty,suciedad visible,ae9a5f5f6a407121,259,194,False,cluster_0401,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (184).jpg,Dusty,suciedad visible,ae9a5f5f6a407121,259,194,False,cluster_0401,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (185).jpg,Dusty,suciedad visible,92c6b3e89cb8e856,265,190,False,cluster_0402,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (186).jpg,Dusty,suciedad visible,8cd6c33ad075d362,201,251,False,cluster_0403,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (187).jpg,Dusty,suciedad visible,ad48dd2de807c31b,278,181,False,cluster_0068,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (188).jpg,Dusty,suciedad visible,ac9b0d304f727c63,612,459,False,cluster_0404,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (189).jpg,Dusty,suciedad visible,f5da352d2e210b0f,612,408,False,cluster_0405,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (19).jpg,Dusty,suciedad visible,ead4a9dab5aa450a,640,480,False,cluster_0406,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (190).jpg,Dusty,suciedad visible,dd8c37ae1aa50a74,508,339,False,cluster_0407,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (2).jpg,Dusty,suciedad visible,afcc328d057a83c7,2000,1333,False,cluster_0408,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (20).jpg,Dusty,suciedad visible,c557e050f45ef80e,343,280,False,cluster_0409,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (21).jpg,Dusty,suciedad visible,afc8128525fa87dc,480,360,False,cluster_0410,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (22).jpg,Dusty,suciedad visible,d8e47b8e711e6078,641,360,False,cluster_0411,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (23).jpg,Dusty,suciedad visible,c7aca03630772abe,1848,832,False,cluster_0323,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (24).jpg,Dusty,suciedad visible,d06aad946af52ad4,887,675,False,cluster_0412,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (25).jpg,Dusty,suciedad visible,e6d8d96699886693,3648,2056,False,cluster_0413,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (26).jpg,Dusty,suciedad visible,88e388afb4d3566a,3648,2056,False,cluster_0318,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (27).jpg,Dusty,suciedad visible,888788afb4d7545b,768,427,False,cluster_0318,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (28).jpg,Dusty,suciedad visible,e7ce2cd116155157,855,689,False,cluster_0414,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (29).jpg,Dusty,suciedad visible,a3871fde5f1c0a0a,1024,538,False,cluster_0415,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (3).jpg,Dusty,suciedad visible,d5df64d020686b2f,1536,2048,False,cluster_0398,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (30).jpg,Dusty,suciedad visible,f4cd0ed4388137d3,1300,955,False,cluster_0416,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (31).jpg,Dusty,suciedad visible,aad5d0c2e8e9a5a5,720,960,False,cluster_0417,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (32).jpg,Dusty,suciedad visible,ccac8ced17d75a02,720,960,False,cluster_0418,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (33).jpg,Dusty,suciedad visible,cc32cd36e9162bd4,720,960,False,cluster_0419,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (34).jpg,Dusty,suciedad visible,918c3b3cf8777070,1371,2048,False,cluster_0420,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (35).jpg,Dusty,suciedad visible,afcc328d057a83c7,2000,1333,False,cluster_0408,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (36).jpg,Dusty,suciedad visible,d6bae025d5aad42a,350,467,False,cluster_0399,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (37).jpg,Dusty,suciedad visible,d1c4d7cc4239e68b,1200,675,False,cluster_0421,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (38).jpg,Dusty,suciedad visible,e390e8ac44a3de6d,332,453,False,cluster_0422,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (39).jpg,Dusty,suciedad visible,e8f5f8f070e851e0,149,250,False,cluster_0423,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (4).jpg,Dusty,suciedad visible,ffc4243d050e273d,1600,1200,False,cluster_0424,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (40).jpg,Dusty,suciedad visible,c99a30a53ff00bda,2000,1333,False,cluster_0425,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (41).jpg,Dusty,suciedad visible,8f8fea6ef430e060,720,960,False,cluster_0426,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (42).jpg,Dusty,suciedad visible,d29565313c39b55a,720,960,False,cluster_0427,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (43).jpg,Dusty,suciedad visible,fcc740682fb7b114,720,960,False,cluster_0428,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (44).jpg,Dusty,suciedad visible,d6c9162d6c2dec38,720,960,False,cluster_0429,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (45).jpg,Dusty,suciedad visible,d949603e97916ccb,720,960,False,cluster_0430,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (46).jpg,Dusty,suciedad visible,a0c5238d68bfcdb8,720,960,False,cluster_0431,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (47).jpg,Dusty,suciedad visible,c986010517575f7f,720,960,False,cluster_0432,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (48).jpg,Dusty,suciedad visible,e8cccc6ad6f3d280,720,960,False,cluster_0433,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (49).jpg,Dusty,suciedad visible,da576a372e07b052,720,960,False,cluster_0434,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (5).jpg,Dusty,suciedad visible,ad292f48c70e5e5a,165,220,False,cluster_0435,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (50).jpg,Dusty,suciedad visible,b78247ec022fb83d,960,720,False,cluster_0436,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (51).jpg,Dusty,suciedad visible,8ac532492dbad55e,720,960,False,cluster_0437,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (52).jpg,Dusty,suciedad visible,bfd540626a626a6b,720,960,False,cluster_0438,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (53).jpg,Dusty,suciedad visible,8a816b0a1fb5bd0f,960,720,False,cluster_0439,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (54).jpg,Dusty,suciedad visible,e0a0a0aada3f5e5e,720,960,False,cluster_0440,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (55).jpg,Dusty,suciedad visible,ae49d624cdf20753,720,960,False,cluster_0441,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (56).jpg,Dusty,suciedad visible,aad6547436353535,2048,1536,False,cluster_0442,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (57).jpg,Dusty,suciedad visible,ffc095a8daa48a96,720,960,False,cluster_0443,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (58).jpg,Dusty,suciedad visible,aac09fcfd2c9d248,2048,1536,False,cluster_0444,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (59).jpg,Dusty,suciedad visible,af96fa03e10acf0a,720,960,False,cluster_0445,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (6).jpg,Dusty,suciedad visible,bbc00d335c58e6f1,4032,3024,False,cluster_0446,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (60).jpg,Dusty,suciedad visible,fe81b62d42790e71,1536,2048,False,cluster_0447,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (61).jpg,Dusty,suciedad visible,999979cb5b1b1318,2048,1536,False,cluster_0448,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (62).jpg,Dusty,suciedad visible,aad2f508f078f03b,720,960,False,cluster_0449,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (63).jpg,Dusty,suciedad visible,bf46a03e8f908c97,720,960,False,cluster_0450,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (64).jpg,Dusty,suciedad visible,ea447f6ed09071f0,720,960,False,cluster_0451,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (65).jpg,Dusty,suciedad visible,8b0ded684a9f7960,720,960,False,cluster_0452,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (66).jpg,Dusty,suciedad visible,a68196aabdd4fac0,1536,2048,False,cluster_0453,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (67).jpg,Dusty,suciedad visible,af6aa035f03dc938,960,720,False,cluster_0454,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (68).jpg,Dusty,suciedad visible,f8cafde4c8828599,720,960,False,cluster_0455,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (69).jpg,Dusty,suciedad visible,dd2a051ff82ae1b4,720,960,False,cluster_0456,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (7).jpg,Dusty,suciedad visible,870bf8fd94955503,576,323,False,cluster_0457,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (70).jpg,Dusty,suciedad visible,95927aa5ca4a98fa,960,720,False,cluster_0458,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (71).jpg,Dusty,suciedad visible,c4e4d97c6a6a3a1a,2048,1536,False,cluster_0459,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (72).jpg,Dusty,suciedad visible,b7c30333db28a9aa,720,960,False,cluster_0460,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (73).jpg,Dusty,suciedad visible,a5f9f2e106874627,720,960,False,cluster_0461,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (74).jpg,Dusty,suciedad visible,ff7e3a88d4c4601c,2048,1536,False,cluster_0462,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (75).jpg,Dusty,suciedad visible,be5cc12dc5c54ee0,720,960,False,cluster_0463,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (76).jpg,Dusty,suciedad visible,aaff28a1b1548ba9,720,960,False,cluster_0464,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (77).jpg,Dusty,suciedad visible,bd858278a28ba9dd,720,960,False,cluster_0465,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (78).jpg,Dusty,suciedad visible,97d55ada58c84aaa,2048,1536,False,cluster_0466,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (79).jpg,Dusty,suciedad visible,e71b8f6329219956,720,960,False,cluster_0467,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (8).jpg,Dusty,suciedad visible,b4dacb2738c6c18d,376,250,False,cluster_0468,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (80).jpg,Dusty,suciedad visible,f24e3a6cf188e01f,2048,1152,False,cluster_0469,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (81).jpg,Dusty,suciedad visible,aa352ad2958b167d,2048,1152,False,cluster_0470,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (82).jpg,Dusty,suciedad visible,c5623c8790dec3ec,2048,1152,False,cluster_0471,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (83).jpg,Dusty,suciedad visible,e6d8d96699886693,3648,2056,False,cluster_0413,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (84).jpg,Dusty,suciedad visible,c0c22fb5f278c16b,2048,1152,False,cluster_0472,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (85).jpg,Dusty,suciedad visible,d6cc6ee8ecc49590,2048,1152,False,cluster_0473,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (86).jpg,Dusty,suciedad visible,f5e5252a4a4a6a7a,2048,1152,False,cluster_0474,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (87).jpg,Dusty,suciedad visible,f47e664baba0b414,2048,1152,False,cluster_0475,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (88).jpg,Dusty,suciedad visible,a852b7a37af2f204,2048,1152,False,cluster_0476,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (89).jpg,Dusty,suciedad visible,a11c376c73e48b8e,2048,1152,False,cluster_0477,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (9).jpg,Dusty,suciedad visible,ff814c3d6794225c,800,450,False,cluster_0478,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (90).jpg,Dusty,suciedad visible,ff0f983ade0a0d30,2048,1152,False,cluster_0479,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (91).jpg,Dusty,suciedad visible,890f3ee862c735cc,2048,1152,False,cluster_0480,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (92).jpg,Dusty,suciedad visible,fc4f88a485f406fa,2048,1152,False,cluster_0481,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (93).jpg,Dusty,suciedad visible,90d3d05aeb6e6626,2048,921,False,cluster_0482,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (94).jpg,Dusty,suciedad visible,fd256509ca8a9aea,2048,1152,False,cluster_0483,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (95).jpg,Dusty,suciedad visible,9e43623b5515d4ec,2048,921,False,cluster_0484,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (96).jpg,Dusty,suciedad visible,fff078b8c800f626,2048,1152,False,cluster_0485,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (97).jpg,Dusty,suciedad visible,87fc3e0f183e3522,2048,921,False,cluster_0486,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (98).jpg,Dusty,suciedad visible,dd2f87e8b41b240b,3024,3024,False,cluster_0487,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Dusty/Dust (99).jpg,Dusty,suciedad visible,bec1edc2a5838707,2048,921,False,cluster_0488,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (1).jpg,Physical-Damage,grieta visible,f8dd0eb9a44bc588,768,480,False,cluster_0489,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (10).jpg,Physical-Damage,grieta visible,8762acc8b6e99ce1,260,136,False,cluster_0490,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (11).jpg,Physical-Damage,grieta visible,c02c6e99ad6332f5,448,336,False,cluster_0491,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (12).jpg,Physical-Damage,grieta visible,c6b0c6be69cd30c9,750,1000,False,cluster_0492,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (13).jpg,Physical-Damage,grieta visible,c8893af0c3e027fe,474,406,False,cluster_0493,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (14).jpg,Physical-Damage,grieta visible,9662ddc8369cc935,474,248,False,cluster_0494,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (15).jpg,Physical-Damage,grieta visible,acb7858cab8de322,300,200,False,cluster_0495,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (16).jpg,Physical-Damage,grieta visible,f6fb71c890614ccc,1536,2048,False,cluster_0496,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (17).jpg,Physical-Damage,grieta visible,db39b450a5d0c86f,846,476,False,cluster_0497,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (18).jpg,Physical-Damage,grieta visible,94e02b9cc7b2f1ca,746,559,False,cluster_0498,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (19).jpg,Physical-Damage,grieta visible,c3643e2769c2553e,1024,576,False,cluster_0499,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (2).jpg,Physical-Damage,grieta visible,c21af5a0c77ad06d,768,1024,False,cluster_0500,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (20).jpg,Physical-Damage,grieta visible,ae95d27ac750c658,1024,768,False,cluster_0501,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (21).jpg,Physical-Damage,grieta visible,aac6e3630dc366c3,370,160,False,cluster_0502,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (22).jpg,Physical-Damage,grieta visible,acb7858eabcc7032,768,521,False,cluster_0503,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (23).jpg,Physical-Damage,grieta visible,c07c27599caad4ab,1400,1008,False,cluster_0504,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (24).jpg,Physical-Damage,grieta visible,94e02b9cc7b2f1ca,705,529,False,cluster_0498,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (25).jpg,Physical-Damage,grieta visible,c07c27599caad4ab,1024,737,False,cluster_0504,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (26).JPG,Physical-Damage,grieta visible,e88ae23dc9f82770,445,784,False,cluster_0505,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (27).JPG,Physical-Damage,grieta visible,813c3e2799847757,1168,769,False,cluster_0506,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (28).jpg,Physical-Damage,grieta visible,b5f47228d53986e2,1030,687,False,cluster_0507,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (29).jpg,Physical-Damage,grieta visible,abbefe9959a01a01,780,585,False,cluster_0508,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (3).jpg,Physical-Damage,grieta visible,c05c2673657b55a3,500,241,False,cluster_0509,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (30).jpg,Physical-Damage,grieta visible,dfdbe80586969074,768,576,False,cluster_0510,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (31).jpg,Physical-Damage,grieta visible,cb39b452a5d8c86b,450,253,False,cluster_0497,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (32).jpg,Physical-Damage,grieta visible,ae47bc4b753a0d12,300,201,False,cluster_0511,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (33).jpg,Physical-Damage,grieta visible,ad9730328fcf3930,1280,720,False,cluster_0512,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (34).jpg,Physical-Damage,grieta visible,8762acc8b6e99ce1,500,261,False,cluster_0490,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (35).jpg,Physical-Damage,grieta visible,b0d40abf53c08fcb,1024,768,False,cluster_0513,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (36).jpg,Physical-Damage,grieta visible,c05c2673657b55a3,474,228,False,cluster_0509,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (37).jpg,Physical-Damage,grieta visible,bfffc0b460b054c1,430,700,False,cluster_0514,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (38).jpg,Physical-Damage,grieta visible,c6b0c6be69cd30c9,474,632,False,cluster_0492,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (39).jpg,Physical-Damage,grieta visible,c3b50c9963e6fa06,474,324,False,cluster_0515,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (4).jpg,Physical-Damage,grieta visible,bbecbab02c90b594,300,200,False,cluster_0516,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (40).jpg,Physical-Damage,grieta visible,c5cf233331dc0c9e,600,600,False,cluster_0517,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (41).jpg,Physical-Damage,grieta visible,fea6c8b4e472c28a,474,316,False,cluster_0518,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (42).jpg,Physical-Damage,grieta visible,d27a38902ed427d7,474,279,False,cluster_0519,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (43).jpg,Physical-Damage,grieta visible,c3603e2769c2d53e,1280,720,False,cluster_0499,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (44).jpg,Physical-Damage,grieta visible,d8cc932dd1a52b74,1600,900,False,cluster_0077,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (45).jpg,Physical-Damage,grieta visible,bde05b407e436d23,474,352,False,cluster_0520,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (46).jpg,Physical-Damage,grieta visible,f28f7ca0c53cc34c,302,227,False,cluster_0521,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (47).jpg,Physical-Damage,grieta visible,c07c27599caad52b,1000,720,False,cluster_0504,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (48).jpg,Physical-Damage,grieta visible,aa6d6d93f404e40f,592,400,False,cluster_0522,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (49).jpg,Physical-Damage,grieta visible,c07c27598deae54a,825,547,False,cluster_0523,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (5).jpg,Physical-Damage,grieta visible,99a492afa28cfd92,500,391,False,cluster_0524,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (50).jpg,Physical-Damage,grieta visible,c3603e2769c2d53e,1280,720,False,cluster_0499,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (51).jpg,Physical-Damage,grieta visible,b083dfac562347b2,800,600,False,cluster_0037,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (52).JPG,Physical-Damage,grieta visible,9dcfb2d8b4707064,1280,1280,False,cluster_0525,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (53).jpg,Physical-Damage,grieta visible,ffc0cf9f18903306,640,480,False,cluster_0526,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (54).jpg,Physical-Damage,grieta visible,e689946fe9941d1a,700,525,False,cluster_0527,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (55).jpg,Physical-Damage,grieta visible,bf56f4c22ab500ad,340,327,False,cluster_0528,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (56).jpg,Physical-Damage,grieta visible,cefe330ae4a309c5,565,319,False,cluster_0529,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (57).jpg,Physical-Damage,grieta visible,a5956e6592139a6d,3024,4032,False,cluster_0530,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (58).jpg,Physical-Damage,grieta visible,ccdd6273328c3837,638,406,False,cluster_0531,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (59).jpg,Physical-Damage,grieta visible,c5cf333331dc0c9c,600,600,False,cluster_0517,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (6).jpg,Physical-Damage,grieta visible,c11d79837fa0fe40,1000,667,False,cluster_0532,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (60).jpg,Physical-Damage,grieta visible,964c6891f507ff11,406,406,False,cluster_0533,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (61).jpg,Physical-Damage,grieta visible,acb7858eabcc7026,768,512,False,cluster_0503,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (62).jpg,Physical-Damage,grieta visible,932a6da49ab67750,849,450,False,cluster_0534,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (63).jpg,Physical-Damage,grieta visible,c1e68c9907bd72a5,1024,768,False,cluster_0535,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (64).jpg,Physical-Damage,grieta visible,8f81e8fea880fea2,1200,630,False,cluster_0536,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (65).jpg,Physical-Damage,grieta visible,bf56f4c22ab500ad,340,327,False,cluster_0528,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (66).jpg,Physical-Damage,grieta visible,ec84859a19993bfa,720,473,False,cluster_0537,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (67).jpg,Physical-Damage,grieta visible,964c6891f507ff11,406,406,False,cluster_0533,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (68).jpg,Physical-Damage,grieta visible,932a6da49ab67750,300,159,False,cluster_0534,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (69).jpg,Physical-Damage,grieta visible,acb7858cab8de322,300,200,False,cluster_0495,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (7).jpg,Physical-Damage,grieta visible,abbefe9959a01a01,780,585,False,cluster_0508,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (8).jpg,Physical-Damage,grieta visible,c07c27599caad4ab,1000,720,False,cluster_0504,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Physical-Damage/Physical (9).jpg,Physical-Damage,grieta visible,aa9aac96f2e32487,400,300,False,cluster_0538,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (1).jpg,Snow-Covered,vista no evaluable,803d0f1099cec7fb,3000,2250,False,cluster_0539,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (10).jpg,Snow-Covered,vista no evaluable,cd1a9369b4d8cc36,450,300,False,cluster_0540,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (100).jpg,Snow-Covered,vista no evaluable,f0787f8607277858,600,400,False,cluster_0541,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (101).jpg,Snow-Covered,vista no evaluable,94c1cab966cd7266,2304,1728,False,cluster_0542,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (102).jpg,Snow-Covered,vista no evaluable,95c5e8e25872e6b1,768,512,False,cluster_0543,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (103).jpg,Snow-Covered,vista no evaluable,e6468e1ab1f30a9d,1000,750,False,cluster_0544,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (104).jpg,Snow-Covered,vista no evaluable,82e2a3b0d89de54f,624,351,False,cluster_0545,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (105).jpg,Snow-Covered,vista no evaluable,95c5e8e25872e6b1,768,512,False,cluster_0543,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (106).jpg,Snow-Covered,vista no evaluable,c4207c5e7bdb094b,474,289,False,cluster_0546,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (107).jpg,Snow-Covered,vista no evaluable,bfc2ec53b348c423,701,324,False,cluster_0547,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (108).jpg,Snow-Covered,vista no evaluable,ef9c85f2cc298586,620,349,False,cluster_0548,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (109).jpg,Snow-Covered,vista no evaluable,c2850a95c5deee6a,1024,768,False,cluster_0549,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (11).jpg,Snow-Covered,vista no evaluable,98a6d966f864f033,2100,1575,False,cluster_0550,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (110).jpg,Snow-Covered,vista no evaluable,a897f1c90c0ee3e6,660,373,False,cluster_0551,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (111).jpg,Snow-Covered,vista no evaluable,bf80506f25b31a9d,354,188,False,cluster_0552,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (112).jpg,Snow-Covered,vista no evaluable,bf81e82ba0b8bd54,800,553,False,cluster_0553,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (113).jpg,Snow-Covered,vista no evaluable,d931a66d6989cac9,800,533,False,cluster_0554,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (114).jpg,Snow-Covered,vista no evaluable,d4d32dd92a926595,800,534,False,cluster_0555,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (115).jpg,Snow-Covered,vista no evaluable,bee1c3763c608876,227,300,False,cluster_0556,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (116).jpg,Snow-Covered,vista no evaluable,bf60d29f650d3606,320,241,False,cluster_0557,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (117).jpg,Snow-Covered,vista no evaluable,ea9785380d7f0f82,300,299,False,cluster_0558,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (118).jpg,Snow-Covered,vista no evaluable,92174de96b3694a5,680,671,False,cluster_0559,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (119).jpg,Snow-Covered,vista no evaluable,fb8f11e470c0af1a,2048,1373,False,cluster_0560,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (12).jpg,Snow-Covered,vista no evaluable,e6468e1ab1f30a9d,1000,750,False,cluster_0544,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (120).jpg,Snow-Covered,vista no evaluable,bf60d29f650d3606,882,663,False,cluster_0557,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (121).jpg,Snow-Covered,vista no evaluable,de83078c6d74da94,1400,400,False,cluster_0561,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (122).jpg,Snow-Covered,vista no evaluable,c46ab39fc4401bf9,1000,665,False,cluster_0562,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (123).jpg,Snow-Covered,vista no evaluable,c46bb39ec4401bf9,1000,665,False,cluster_0562,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (13).jpg,Snow-Covered,vista no evaluable,c5f53a2a25a5991e,600,400,False,cluster_0563,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (14).jpg,Snow-Covered,vista no evaluable,b61d8ce0d0e6d3e1,570,371,False,cluster_0564,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (15).jpg,Snow-Covered,vista no evaluable,b47cc39f30273932,630,415,False,cluster_0565,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (16).jpg,Snow-Covered,vista no evaluable,f781be49009db2b5,871,550,False,cluster_0566,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (17).jpg,Snow-Covered,vista no evaluable,bf80506f25b31a9d,354,188,False,cluster_0552,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (18).jpg,Snow-Covered,vista no evaluable,d4b52a9bf605266a,980,551,False,cluster_0567,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (19).jpg,Snow-Covered,vista no evaluable,e112acd653b4d9ac,920,307,False,cluster_0568,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (2).jpg,Snow-Covered,vista no evaluable,e0f58a9778b08b17,920,690,False,cluster_0569,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (20).jpg,Snow-Covered,vista no evaluable,ee54d12aacd12aad,1080,668,False,cluster_0570,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (21).jpg,Snow-Covered,vista no evaluable,d2ed851272ed8f12,600,450,False,cluster_0571,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (22).jpg,Snow-Covered,vista no evaluable,a5d8a768d47532e8,550,413,False,cluster_0572,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (23).jpg,Snow-Covered,vista no evaluable,bead9445161d8f52,763,431,False,cluster_0573,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (24).jpg,Snow-Covered,vista no evaluable,d8a7da396e9826d0,300,224,False,cluster_0574,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (25).jpg,Snow-Covered,vista no evaluable,c19b2962e4cc9dae,599,499,False,cluster_0575,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (26).jpg,Snow-Covered,vista no evaluable,b47cc19f3c203c3b,720,499,False,cluster_0576,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (27).jpg,Snow-Covered,vista no evaluable,f806905fb89be8d1,500,282,False,cluster_0577,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (28).JPG,Snow-Covered,vista no evaluable,c47b9768b94ea312,1006,703,False,cluster_0578,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (29).JPG,Snow-Covered,vista no evaluable,e5279904367978e9,792,591,False,cluster_0579,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (3).jpg,Snow-Covered,vista no evaluable,d080af3e90d36d6e,2560,1707,False,cluster_0580,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (30).JPG,Snow-Covered,vista no evaluable,b54d9124c9b68d97,884,340,False,cluster_0581,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (31).JPG,Snow-Covered,vista no evaluable,ea8e1e34b7cc9093,588,748,False,cluster_0582,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (32).JPG,Snow-Covered,vista no evaluable,c9341b0d475369fc,744,387,False,cluster_0583,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (33).JPG,Snow-Covered,vista no evaluable,bc40c83f61dd9a8e,374,458,False,cluster_0584,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (34).jpg,Snow-Covered,vista no evaluable,c51d3067674a077e,1200,797,False,cluster_0585,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (35).JPG,Snow-Covered,vista no evaluable,ea869f34b6cc9883,616,777,False,cluster_0582,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (36).JPG,Snow-Covered,vista no evaluable,e035c53e9ee095a5,1043,468,False,cluster_0586,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (37).jpg,Snow-Covered,vista no evaluable,c2c4b1ba1e53672e,1024,568,False,cluster_0587,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (38).jpg,Snow-Covered,vista no evaluable,eb499634350dc5e9,196,110,False,cluster_0588,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (39).JPG,Snow-Covered,vista no evaluable,ae91a6ede1c6312a,757,525,False,cluster_0589,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (4).jpg,Snow-Covered,vista no evaluable,81ad671e81c6ed6a,1920,1280,False,cluster_0590,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (40).JPG,Snow-Covered,vista no evaluable,be43dd9cb1a811b2,908,770,False,cluster_0591,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (41).jpg,Snow-Covered,vista no evaluable,ca36956837ca559a,1280,720,False,cluster_0592,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (42).jpg,Snow-Covered,vista no evaluable,aad4e10efbc688b1,800,600,False,cluster_0593,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (43).jpg,Snow-Covered,vista no evaluable,8ff8c710372cf823,2261,1507,False,cluster_0594,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (44).jpg,Snow-Covered,vista no evaluable,9ce1a7b41b2a3556,600,380,False,cluster_0595,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (45).jpg,Snow-Covered,vista no evaluable,fe018776d9c32694,369,312,False,cluster_0596,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (46).jpg,Snow-Covered,vista no evaluable,b10ed8b3b62c017f,474,237,False,cluster_0597,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (47).jpg,Snow-Covered,vista no evaluable,c23d8b227c85337e,800,600,False,cluster_0598,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (48).jpg,Snow-Covered,vista no evaluable,e14e9871a6b163ce,474,281,False,cluster_0599,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (49).jpg,Snow-Covered,vista no evaluable,ff3b8160986e836c,650,366,False,cluster_0600,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (5).jpg,Snow-Covered,vista no evaluable,f0787f8607277858,600,400,False,cluster_0541,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (50).jpg,Snow-Covered,vista no evaluable,b0d15aed64627f28,474,315,False,cluster_0601,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (51).jpg,Snow-Covered,vista no evaluable,adb1b19292d2d273,474,266,False,cluster_0602,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (52).jpg,Snow-Covered,vista no evaluable,e2707f8504877e78,474,465,False,cluster_0603,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (53).jpg,Snow-Covered,vista no evaluable,e64c33948987cece,1106,830,False,cluster_0604,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (54).jpg,Snow-Covered,vista no evaluable,c9ac923594e5bb2c,650,366,False,cluster_0605,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (55).jpg,Snow-Covered,vista no evaluable,b0d15aed64627f28,474,315,False,cluster_0601,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (56).jpg,Snow-Covered,vista no evaluable,839ffc40836718fc,2048,1536,False,cluster_0606,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (57).jpg,Snow-Covered,vista no evaluable,94c1cab966cd7266,2304,1728,False,cluster_0542,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (58).jpg,Snow-Covered,vista no evaluable,fe018776d9c32694,369,312,False,cluster_0596,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (59).jpg,Snow-Covered,vista no evaluable,e64c33149985dd8f,474,326,False,cluster_0607,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (6).jpg,Snow-Covered,vista no evaluable,f1e01f5c439a6dc2,900,600,False,cluster_0608,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (60).jpg,Snow-Covered,vista no evaluable,b47cc39f30273932,630,415,False,cluster_0565,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (61).jpg,Snow-Covered,vista no evaluable,bf81e82ba0b8bd54,800,553,False,cluster_0553,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (62).jpg,Snow-Covered,vista no evaluable,c0fdeff70006907c,960,500,False,cluster_0609,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (63).jpg,Snow-Covered,vista no evaluable,9274c1cf487e6cc9,523,392,False,cluster_0610,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (64).jpg,Snow-Covered,vista no evaluable,dd62c54b926439cb,356,200,False,cluster_0611,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (65).jpg,Snow-Covered,vista no evaluable,95d6a42d5a6bab42,1280,960,False,cluster_0612,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (66).jpg,Snow-Covered,vista no evaluable,dd62c54b926439cb,356,200,False,cluster_0611,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (67).jpg,Snow-Covered,vista no evaluable,dd62c54b926439cb,356,200,False,cluster_0611,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (68).jpg,Snow-Covered,vista no evaluable,a5804b7f6870bf68,800,600,False,cluster_0613,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (69).jpg,Snow-Covered,vista no evaluable,a5804b7f6870bf68,800,600,False,cluster_0613,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (7).jpg,Snow-Covered,vista no evaluable,f988e4678b219c9d,800,600,False,cluster_0614,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (70).jpg,Snow-Covered,vista no evaluable,c0bf457b349f0748,1228,816,False,cluster_0615,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (71).jpg,Snow-Covered,vista no evaluable,d2aa824aae9fcbc4,320,480,False,cluster_0616,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (72).jpg,Snow-Covered,vista no evaluable,80f77b592d84e6c2,660,440,False,cluster_0617,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (73).jpg,Snow-Covered,vista no evaluable,c99def907c194433,300,200,False,cluster_0618,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (74).jpg,Snow-Covered,vista no evaluable,d4d32dd92a926595,1000,668,False,cluster_0555,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (75).jpg,Snow-Covered,vista no evaluable,bfc2a49b47a0e658,800,600,False,cluster_0619,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (76).jpg,Snow-Covered,vista no evaluable,9795686a87977868,640,426,False,cluster_0620,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (77).JPG,Snow-Covered,vista no evaluable,e3788e0e69c3ad91,1018,393,False,cluster_0621,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (78).jpg,Snow-Covered,vista no evaluable,d7879ce8b18f2628,900,554,False,cluster_0622,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (79).jpg,Snow-Covered,vista no evaluable,d28da86ccb92356d,900,640,False,cluster_0623,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (8).jpg,Snow-Covered,vista no evaluable,d4d32dd92a926595,2560,1709,False,cluster_0555,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (80).jpg,Snow-Covered,vista no evaluable,ffc03e2f906d3c20,900,600,False,cluster_0624,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (81).JPG,Snow-Covered,vista no evaluable,c47a9768b9dc8711,1012,686,False,cluster_0625,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (82).JPG,Snow-Covered,vista no evaluable,bdec5582623d817c,973,456,False,cluster_0626,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (83).jpg,Snow-Covered,vista no evaluable,8c85da0a793e62ee,800,533,False,cluster_0627,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (84).jpg,Snow-Covered,vista no evaluable,c1c84b250d97adfa,602,348,False,cluster_0628,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (85).jpg,Snow-Covered,vista no evaluable,c2c4b1ba1e53672e,1024,568,False,cluster_0587,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (86).jpg,Snow-Covered,vista no evaluable,c46ab39fc4401bf9,1000,665,False,cluster_0562,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (87).JPG,Snow-Covered,vista no evaluable,c43b9768b94e2378,1013,754,False,cluster_0578,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (88).JPG,Snow-Covered,vista no evaluable,ae91a6ede1c63129,768,554,False,cluster_0589,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (89).jpg,Snow-Covered,vista no evaluable,9272cd656cbd1178,626,417,False,cluster_0629,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (9).jpg,Snow-Covered,vista no evaluable,d62b95d0282fa57a,1000,667,False,cluster_0630,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (90).jpg,Snow-Covered,vista no evaluable,dd62c54b926439cb,356,200,False,cluster_0611,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (91).JPG,Snow-Covered,vista no evaluable,d67e7ed038b00b83,821,285,False,cluster_0631,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (92).JPG,Snow-Covered,vista no evaluable,97f96887977a4881,800,392,False,cluster_0632,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (93).JPG,Snow-Covered,vista no evaluable,94991f7050e7dca3,784,560,False,cluster_0633,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (94).jpg,Snow-Covered,vista no evaluable,bcefcd0d46f01170,1280,720,False,cluster_0634,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (95).jpg,Snow-Covered,vista no evaluable,bf2c84950ec28f2f,768,432,False,cluster_0635,test
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (96).jpg,Snow-Covered,vista no evaluable,dcd12229cdd9d2d2,486,323,False,cluster_0636,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (97).jpg,Snow-Covered,vista no evaluable,e14e9871a6b163ce,1000,592,False,cluster_0599,val
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (98).jpg,Snow-Covered,vista no evaluable,81d0f66ae555b266,270,194,False,cluster_0637,train
+/home/gerardo/dev/python/SI-FINAL/datasets/Solar Panel Images Clean and Faulty Images/Snow-Covered/Snow (99).jpg,Snow-Covered,vista no evaluable,98a6d966f864f033,768,576,False,cluster_0550,test
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_blur_000_Clean (75).jpg,Synthetic-blur,vista no evaluable,bb86a0d8d4e9d0e5,256,256,True,cluster_0286_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_glare_001_Dust (48).jpg,Synthetic-glare,vista no evaluable,e8cccc6ad6f3d280,256,256,True,cluster_0433_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_occlusion_002_Dust (74).jpg,Synthetic-occlusion,vista no evaluable,ff7e3a88d4c4601c,256,256,True,cluster_0462_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_blur_003_Physical (13).jpg,Synthetic-blur,vista no evaluable,c8893af0c3e027fe,256,256,True,cluster_0493_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_glare_004_Dust (45).jpg,Synthetic-glare,vista no evaluable,d949603e97916ccb,256,256,True,cluster_0430_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_occlusion_005_Physical (5).jpg,Synthetic-occlusion,vista no evaluable,99a492afa28cfd92,256,256,True,cluster_0524_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_blur_006_Clean (91).jpg,Synthetic-blur,vista no evaluable,c6d43a50f592c5dc,256,256,True,cluster_0302_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_glare_007_Bird (183).jpg,Synthetic-glare,vista no evaluable,c3b534526a133f2b,256,256,True,cluster_0057_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_occlusion_008_Dust (17).jpg,Synthetic-occlusion,vista no evaluable,fc8060e1e3ff014f,256,256,True,cluster_0388_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_blur_009_Dust (153).jpg,Synthetic-blur,vista no evaluable,a8fa787a587a606c,256,256,True,cluster_0371_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_glare_010_Dust (80).jpg,Synthetic-glare,vista no evaluable,f24e3a6cf188e01f,256,256,True,cluster_0469_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_occlusion_011_Dust (87).jpg,Synthetic-occlusion,vista no evaluable,f47e664baba0b414,256,256,True,cluster_0475_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_blur_012_Dust (49).jpg,Synthetic-blur,vista no evaluable,da576a372e07b052,256,256,True,cluster_0434_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_glare_013_Bird (20).jpg,Synthetic-glare,vista no evaluable,f887a098e7d2a8d5,256,256,True,cluster_0013_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_occlusion_014_Clean (120).jpg,Synthetic-occlusion,vista no evaluable,fd82f85a7345a306,256,256,True,cluster_0156_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_blur_015_Bird (106).jpg,Synthetic-blur,vista no evaluable,d4c2ea9f0e97203e,256,256,True,cluster_0008_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_glare_016_Clean (95).jpg,Synthetic-glare,vista no evaluable,8282c3e3e1b595bd,256,256,True,cluster_0306_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_occlusion_017_Bird (150).jpg,Synthetic-occlusion,vista no evaluable,f11c61587fc1e8b1,256,256,True,cluster_0045_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_blur_018_Bird (129).jpg,Synthetic-blur,vista no evaluable,99846aa263df549d,256,256,True,cluster_0029_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_glare_019_Dust (188).jpg,Synthetic-glare,vista no evaluable,ac9b0d304f727c63,256,256,True,cluster_0404_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_occlusion_020_Bird (14).jpg,Synthetic-occlusion,vista no evaluable,f9a68c9c8bae088f,256,256,True,cluster_0036_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_blur_021_Bird (59).jpg,Synthetic-blur,vista no evaluable,fe8dd0882afa06d5,256,256,True,cluster_0091_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_glare_022_11.jpg,Synthetic-glare,vista no evaluable,8ac8c60e587e7e78,256,256,True,cluster_0118_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/train/synth_train_occlusion_023_Bird (70).jpg,Synthetic-occlusion,vista no evaluable,d46a2b2d4e7a2a8e,256,256,True,cluster_0087_synth,train
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/val/synth_val_blur_000_Bird (10).jpg,Synthetic-blur,vista no evaluable,84a3b0955aa66af7,256,256,True,cluster_0001_synth,val
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/val/synth_val_glare_001_Bird (11).jpg,Synthetic-glare,vista no evaluable,fec59e081f04bf0c,256,256,True,cluster_0012_synth,val
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/val/synth_val_occlusion_002_Dust (83).jpg,Synthetic-occlusion,vista no evaluable,e6d8d96699886693,256,256,True,cluster_0413_synth,val
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/val/synth_val_blur_003_Clean (166).jpg,Synthetic-blur,vista no evaluable,93a5ff708282e355,256,256,True,cluster_0201_synth,val
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/val/synth_val_glare_004_Dust (113).jpg,Synthetic-glare,vista no evaluable,cec9e9a171b27292,256,256,True,cluster_0327_synth,val
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/val/synth_val_occlusion_005_Dust (149).jpg,Synthetic-occlusion,vista no evaluable,dfea242a8456ca9d,256,256,True,cluster_0366_synth,val
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/test/synth_test_blur_000_Physical (47).jpg,Synthetic-blur,vista no evaluable,c07c27599caad52b,256,256,True,cluster_0504_synth,test
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/test/synth_test_glare_001_Clean (109).jpg,Synthetic-glare,vista no evaluable,c7868f83e0f8f0e8,256,256,True,cluster_0143_synth,test
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/test/synth_test_occlusion_002_Dust (66).jpg,Synthetic-occlusion,vista no evaluable,a68196aabdd4fac0,256,256,True,cluster_0453_synth,test
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/test/synth_test_blur_003_Bird (52).jpg,Synthetic-blur,vista no evaluable,feaff3eae0d00003,256,256,True,cluster_0050_synth,test
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/test/synth_test_glare_004_Clean (137).jpg,Synthetic-glare,vista no evaluable,bb83ab978add8045,256,256,True,cluster_0173_synth,test
+/home/gerardo/dev/python/SI-FINAL/artifacts/cache/synthetic_non_evaluable/test/synth_test_occlusion_005_Clean (154).jpg,Synthetic-occlusion,vista no evaluable,9a09ee02af56ab55,256,256,True,cluster_0190_synth,test

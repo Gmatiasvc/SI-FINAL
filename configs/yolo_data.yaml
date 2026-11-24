@@ -1,0 +1,9 @@
+path: /home/gerardo/dev/python/SI-FINAL/datasets/mixed_1 Computer Vision Dataset
+train: /home/gerardo/dev/python/SI-FINAL/artifacts/splits/yolo_train.txt
+val: /home/gerardo/dev/python/SI-FINAL/artifacts/splits/yolo_val.txt
+test: /home/gerardo/dev/python/SI-FINAL/artifacts/splits/yolo_test.txt
+nc: 3
+names:
+- double_panel
+- dummy
+- single_panel

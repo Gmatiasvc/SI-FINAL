@@ -1,0 +1,220 @@
+{
+  "total_scenarios": 6,
+  "scenarios": [
+    {
+      "scenario_id": "escenario_1_normal",
+      "latency_ms": 147.87,
+      "interrupted_for_hitl": false,
+      "uncertainty_flag": false,
+      "is_anomaly": false,
+      "order_id": null,
+      "structured_report": {
+        "panel": "INV-1BY6WEcLGh8j5v7",
+        "energia_esperada": "969.66 kWh/h (±33.17 kWh/h)",
+        "desviacion": "-3.06% (déficit 3.06% < umbral 15.0%)",
+        "condicion_visual": "No requerida (generación dentro de línea base normal)",
+        "condicion_termica": null,
+        "pasos_revision": [
+          "Continuar monitoreo horario rutinario de telemetría e irradiancia.",
+          "No se requiere movilizar cuadrilla de inspección visual ni intervención física."
+        ],
+        "citas": [
+          "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 1)",
+          "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 2)"
+        ],
+        "incertidumbre_activa": false,
+        "requiere_aprobacion_humana": false,
+        "estado_orden": "NO_REQUERIDA",
+        "respaldo_documental": true,
+        "advertencias_seguridad": []
+      },
+      "trace_log": [
+        "[validar_entradas] Entradas válidas",
+        "[predecir_energia] esperada=969.66 kWh/h (±33.17), observada=940.0, discrepancia=3.06%, anomalia=False",
+        "[redactar_reporte_normal] Operación normal (desviación=3.06%, rag_evidence=True)"
+      ],
+      "errors": []
+    },
+    {
+      "scenario_id": "escenario_2_vision_rgb_suciedad",
+      "latency_ms": 564.66,
+      "interrupted_for_hitl": true,
+      "uncertainty_flag": false,
+      "is_anomaly": false,
+      "order_id": "ORD-20261124-CD9C5D",
+      "structured_report": {
+        "panel": "STRING-04-PANEL-12",
+        "energia_esperada": "969.66 kWh/h (±33.17 kWh/h)",
+        "desviacion": "-2.03% (déficit 2.03%)",
+        "condicion_visual": "suciedad visible (confianza 1.00)",
+        "condicion_termica": null,
+        "pasos_revision": [
+          "Programar limpieza húmeda con agua desmineralizada (< 50 ppm TDS) a baja presión (< 35 bar) y cepillo de cerdas suaves en horario de baja irradiancia.",
+          "Referencia recuperada (Guia_Inspeccion_Visual_Paneles_RGB.pdf, p. 2): Sección 2.2 — Protocolo Seguro de Limpieza de Paneles con Suciedad Visible Para tratar 'suciedad visible', programar limpieza en horas de baja irradiancia (amanecer o atardecer) pa...",
+          "Alcance sin termografía: no se infieren fallos eléctricos o térmicos internos sin medición térmica IR o verificación eléctrica presencial con instrumentación."
+        ],
+        "citas": [
+          "Guia_Inspeccion_Visual_Paneles_RGB.pdf (p. 2)",
+          "Guia_Inspeccion_Visual_Paneles_RGB.pdf (p. 1)"
+        ],
+        "incertidumbre_activa": false,
+        "requiere_aprobacion_humana": true,
+        "estado_orden": "EMITIDA (ORD-20261124-CD9C5D)",
+        "respaldo_documental": true,
+        "advertencias_seguridad": []
+      },
+      "trace_log": [
+        "[validar_entradas] Entradas válidas",
+        "[predecir_energia] esperada=969.66 kWh/h (±33.17), observada=950.0, discrepancia=2.03%, anomalia=False",
+        "[detectar_y_clasificar_rgb] label='suciedad visible', conf=1.000, es_evaluable=True, crops=1",
+        "[consultar_rag] evidence=True, citas=['Guia_Inspeccion_Visual_Paneles_RGB.pdf (p. 2)', 'Guia_Inspeccion_Visual_Paneles_RGB.pdf (p. 1)']",
+        "[generar_propuesta_revision] Propuesta estructurada Pydantic lista; esperando validación humana (HITL).",
+        "[validar_tecnico] [HITL] Técnico APROBÓ la propuesta. Nota='Limpieza programada para mañana 06:00 AM.'",
+        "[simular_orden_revision] Orden simulada emitida: ORD-20261124-CD9C5D (prioridad=MEDIA)"
+      ],
+      "errors": []
+    },
+    {
+      "scenario_id": "escenario_3_integral_ml_rgb_ir",
+      "latency_ms": 177.87,
+      "interrupted_for_hitl": true,
+      "uncertainty_flag": false,
+      "is_anomaly": true,
+      "order_id": "ORD-20261124-850E3B",
+      "structured_report": {
+        "panel": "STRING-07-PANEL-03",
+        "energia_esperada": "969.66 kWh/h (±33.17 kWh/h)",
+        "desviacion": "-39.15% (déficit 39.15%)",
+        "condicion_visual": "grieta visible (confianza 1.00)",
+        "condicion_termica": "Normal térmico (confianza 0.47)",
+        "pasos_revision": [
+          "Acordonar el módulo con vidrio fracturado y PROHIBIR limpieza húmeda hasta medir resistencia de aislamiento (Megger) por riesgo de humedad y falla a tierra.",
+          "Referencia recuperada (Manual_Mantenimiento_Inversor_FV_2026.pdf, p. 2): Sección 1.2 — Controles Manuales en Campo ante Alerta de Inversor Cuando la baja generación coincide con suciedad visible o sombreado parcial, los controles manuales recomendados i..."
+        ],
+        "citas": [
+          "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 2)",
+          "Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 1)"
+        ],
+        "incertidumbre_activa": false,
+        "requiere_aprobacion_humana": true,
+        "estado_orden": "EMITIDA (ORD-20261124-850E3B)",
+        "respaldo_documental": true,
+        "advertencias_seguridad": []
+      },
+      "trace_log": [
+        "[validar_entradas] Entradas válidas",
+        "[predecir_energia] esperada=969.66 kWh/h (±33.17), observada=590.0, discrepancia=39.15%, anomalia=True",
+        "[detectar_y_clasificar_rgb] label='grieta visible', conf=0.999, es_evaluable=True, crops=1",
+        "[clasificar_termografia] thermal_label='Normal térmico', conf=0.467",
+        "[consultar_rag] evidence=True, citas=['Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 2)', 'Manual_Mantenimiento_Inversor_FV_2026.pdf (p. 1)']",
+        "[generar_propuesta_revision] Propuesta estructurada Pydantic lista; esperando validación humana (HITL).",
+        "[validar_tecnico] [HITL] Técnico APROBÓ la propuesta. Nota='Confirmada grieta + hotspot; cuadrilla despachada con Megger.'",
+        "[simular_orden_revision] Orden simulada emitida: ORD-20261124-850E3B (prioridad=ALTA)"
+      ],
+      "errors": []
+    },
+    {
+      "scenario_id": "caso_dificil_vista_no_evaluable",
+      "latency_ms": 134.35,
+      "interrupted_for_hitl": false,
+      "uncertainty_flag": true,
+      "is_anomaly": true,
+      "order_id": null,
+      "structured_report": {
+        "panel": "STRING-02-PANEL-09",
+        "energia_esperada": "969.66 kWh/h (±33.17 kWh/h)",
+        "desviacion": "Déficit 36.06%",
+        "condicion_visual": "vista no evaluable (confianza=0.62)",
+        "condicion_termica": null,
+        "pasos_revision": [
+          "Imagen clasificada como 'vista no evaluable' (confianza=0.62 < umbral=0.60 o nieve/oclusión). Se detiene el diagnóstico automático y se solicita nueva captura.",
+          "Tomar nueva fotografía perpendicular (15–30 grados) evitando reflejos solares o desenfoque."
+        ],
+        "citas": [
+          "Guia_Inspeccion_Visual_Paneles_RGB.pdf (p. 4)"
+        ],
+        "incertidumbre_activa": true,
+        "requiere_aprobacion_humana": false,
+        "estado_orden": "DETENIDA_POR_INCERTIDUMBRE",
+        "respaldo_documental": true,
+        "advertencias_seguridad": []
+      },
+      "trace_log": [
+        "[validar_entradas] Entradas válidas",
+        "[predecir_energia] esperada=969.66 kWh/h (±33.17), observada=620.0, discrepancia=36.06%, anomalia=True",
+        "[detectar_y_clasificar_rgb] label='vista no evaluable', conf=0.622, es_evaluable=False, crops=1",
+        "[detener_por_incertidumbre] Imagen clasificada como 'vista no evaluable' (confianza=0.62 < umbral=0.60 o nieve/oclusión). Se detiene el diagnóstico automático y se solicita nueva captura."
+      ],
+      "errors": []
+    },
+    {
+      "scenario_id": "caso_error_entrada_invalida",
+      "latency_ms": 4.77,
+      "interrupted_for_hitl": false,
+      "uncertainty_flag": true,
+      "is_anomaly": false,
+      "order_id": null,
+      "structured_report": {
+        "panel": "INV-ERR-01",
+        "energia_esperada": "No calculada por error en entrada",
+        "desviacion": "No disponible",
+        "condicion_visual": "No evaluada",
+        "condicion_termica": null,
+        "pasos_revision": [
+          "Corrija los datos o archivos inválidos indicados en el registro de errores.",
+          "Error en telemetría tabular: Irradiancia fuera de rango físico [0.0, 2.5] (normalizada): -0.5"
+        ],
+        "citas": [],
+        "incertidumbre_activa": true,
+        "requiere_aprobacion_humana": false,
+        "estado_orden": "ERROR_ENTRADA",
+        "respaldo_documental": false,
+        "advertencias_seguridad": [
+          "Error en telemetría tabular: Irradiancia fuera de rango físico [0.0, 2.5] (normalizada): -0.5"
+        ]
+      },
+      "trace_log": [
+        "[validar_entradas] Errores detectados (1)",
+        "[manejar_error] Flujo abortado: ['Error en telemetría tabular: Irradiancia fuera de rango físico [0.0, 2.5] (normalizada): -0.5']"
+      ],
+      "errors": [
+        "Error en telemetría tabular: Irradiancia fuera de rango físico [0.0, 2.5] (normalizada): -0.5"
+      ]
+    },
+    {
+      "scenario_id": "caso_sin_respaldo_y_rechazo_hitl",
+      "latency_ms": 137.23,
+      "interrupted_for_hitl": true,
+      "uncertainty_flag": false,
+      "is_anomaly": true,
+      "order_id": null,
+      "structured_report": {
+        "panel": "STRING-09-PANEL-01",
+        "energia_esperada": "969.66 kWh/h (±33.17 kWh/h)",
+        "desviacion": "-37.09% (déficit 37.09%)",
+        "condicion_visual": "suciedad visible (confianza 1.00)",
+        "condicion_termica": null,
+        "pasos_revision": [
+          "Advertencia documental: Sin respaldo documental suficiente en el corpus (score máximo=0.061 < umbral=0.20). No se inventan procedimientos ni citas.",
+          "Programar limpieza húmeda con agua desmineralizada (< 50 ppm TDS) a baja presión (< 35 bar) y cepillo de cerdas suaves en horario de baja irradiancia.",
+          "Alcance sin termografía: no se infieren fallos eléctricos o térmicos internos sin medición térmica IR o verificación eléctrica presencial con instrumentación."
+        ],
+        "citas": [],
+        "incertidumbre_activa": false,
+        "requiere_aprobacion_humana": true,
+        "estado_orden": "RECHAZADA_POR_TECNICO",
+        "respaldo_documental": false,
+        "advertencias_seguridad": []
+      },
+      "trace_log": [
+        "[validar_entradas] Entradas válidas",
+        "[predecir_energia] esperada=969.66 kWh/h (±33.17), observada=610.0, discrepancia=37.09%, anomalia=True",
+        "[detectar_y_clasificar_rgb] label='suciedad visible', conf=1.000, es_evaluable=True, crops=1",
+        "[consultar_rag] evidence=False, citas=[]",
+        "[generar_propuesta_revision] Propuesta estructurada Pydantic lista; esperando validación humana (HITL).",
+        "[validar_tecnico] [HITL] Técnico RECHAZÓ o canceló la orden. Nota='Rechazada por falta de manual específico de firmware.'"
+      ],
+      "errors": []
+    }
+  ]
+}

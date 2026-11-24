@@ -1,0 +1,10 @@
+[project]
+name = "solarguard-ai"
+version = "0.1.0"
+description = "SolarGuard AI: Backend inteligente MoE en LangGraph para inspección fotovoltaica (Grupo 08 - UNT)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-v"
